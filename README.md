@@ -1,1 +1,3 @@
-# rubymonstas-zh
+# rubymonstas-zurich
+
+The website of Ruby Monstas Zurich
