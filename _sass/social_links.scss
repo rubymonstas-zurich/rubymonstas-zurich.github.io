@@ -1,0 +1,16 @@
+.social-links {
+  text-align: center;
+  margin-top: 28px;
+
+  .link {
+    margin: 10px 14px;
+    display: inline-block;
+    & path {
+      fill: #ccc
+    }
+  }
+
+  .link:hover path {
+    fill: rgb(217, 16, 10);
+  }
+}

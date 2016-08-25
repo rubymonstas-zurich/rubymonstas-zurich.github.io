@@ -1,0 +1,22 @@
+.session {
+  padding: 10px 0;
+}
+
+.session + .session {
+  border-top: 1px solid #ddd;
+}
+
+.session small {
+  font-weight: normal;
+  color: gray;
+  font-size: 16px;
+
+  & a {
+    color: gray;
+    text-decoration: underline;
+  }
+
+  & a:hover {
+    text-decoration: none;
+  }
+}

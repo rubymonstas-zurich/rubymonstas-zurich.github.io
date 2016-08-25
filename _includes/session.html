@@ -1,0 +1,29 @@
+<div class='session'>
+  {% if session.warning %}
+    <h2>&#9888;
+      <small>&ndash; {{session.date}}</small>
+    </h2>
+    <ul>
+      <li>{{session.warning}}</li>
+    </ul>
+  {% else %}
+    <h2>#{{session.number}}
+      <small>
+        &ndash; {{ session.date | date: '%d.%m.%y' }}, at
+        {% if session.location == 'simplificator' %}
+          <a href="https://www.google.ch/maps/place/Simplificator+AG/@47.3878883,8.5164552,17z/data=!3m1!4b1!4m2!3m1!1s0x47900a3f64a4f2ff:0xc18cee8786daf76c?hl=en">Simplificator AG</a>
+        {% elsif session.location == 'tamedia' %}
+          <a href="https://www.google.ch/maps/place/Tamedia+AG/@47.3727819,8.5288568,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a04ab528945:0xdec90b5aaeef3f36!8m2!3d47.3727819!4d8.5310508?hl=en">Tamedia AG</a>
+        {% elsif session.location == 'localsearch' %}
+          <a href="https://www.google.ch/maps/place/local.ch/@47.3916749,8.5128595,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a0ee99047b5:0x992645a8539d4a97!8m2!3d47.3916749!4d8.5150535?hl=en">localsearch</a>
+        {% endif %}
+      </small>
+    </h2>
+    <ul>
+      {% for line in session.description %}
+        <li>{{line}}</li>
+      {% endfor %}
+    </ul>
+
+  {% endif %}
+</div>

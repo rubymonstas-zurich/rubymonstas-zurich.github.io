@@ -1,192 +1,24 @@
-<!doctype html>
-<html>
-  <head>
-    <title>Ruby Monstas Zurich</title>
-    <link rel="stylesheet"
-          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css"
-                           href="http://fonts.googleapis.com/css?family=Open+Sans">
-    <link rel="stylesheet" href="css/style.css">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta name="viewport" content="width=device-width,
-    initial-scale=1.0">
-  </head>
-  <body>
-    <div class="container">
+---
+layout: default
+---
 
-      <header>
-        <a href="/">
-          <img src="img/ruby-monstas-zurich.png" alt="Ruby Monstas Zurich" class="logo" />
-        </a>
+<p class='align-center'>A round of applause for our lovely team, please!</p>
 
-        <ol class="breadcrumb">
-          <li><a href="/">Home</a></li>
-          <li><a href="/curriculum_beginners">Beginner group</a></li>
-          <li><a href="/curriculum_advanced">Advanced group</a></li>
-          <li><a href="/join">Join</a></li>
-          <li><a href="/locations">Locations</a></li>
-          <li><a href="/team">Team</a></li>
-        </ol>
-      </header>
+{% for member in site.data.members %}
+  <div class='member'>
+    <div class='profile-img placeholder-img-{{member.gender}}'></div>
+    <div class='name'><strong>{{member.name}}</strong></div>
+    <div class='name'>{{member.role}}</div>
+    {% if member.twitter_username %}
+      <a href="https://twitter.com/{{member.twitter_username}}" class='twitter-username'>@{{member.twitter_username}}</a>
+    {% endif %}
+  </div>
+{% endfor %}
 
-      <div class="content">
-
-        <h4>Team</h4>
-
-        <p>A round of applause for our lovely team, please!</p>
-
-        <br />
-
-        <h5>Organisation and Coaching</h3>
-
-        <div class="row">
-
-          <a href="https://twitter.com/rubydwarf">
-            <div class="col-sm-4">
-              <div class="row">
-                <img class="col-sm-4" src="img/railsgirls-girl.png">
-                <div class="col-sm-8">
-                  Marion Schleifer
-                  <small>@rubydwarf</small>
-                </div>
-              </div>
-            </div>
-          </a>
-
-          <a href="https://twitter.com/k_graefenhain">
-            <div class="col-sm-4">
-              <div class="row">
-                <img class="col-sm-4" src="img/railsgirls-girl.png">
-                <div class="col-sm-8">
-                  Katja Gräfenhain
-                  <small>@k_graefenhain</small>
-                </div>
-              </div>
-            </div>
-          </a>
-
-          <a href="https://twitter.com/maveonair">
-            <div class="col-sm-4">
-              <div class="row">
-                <img class="col-sm-4" src="img/railsgirls-boy.png">
-                <div class="col-sm-8">
-                  Fabian Mettler
-                  <small>@maveonair</small>
-                </div>
-              </div>
-            </div>
-          </a>
-
-        </div>
-
-        <br />
-
-        <div class="row">
-
-          <a href="https://twitter.com/nethad">
-            <div class="col-sm-4">
-              <div class="row">
-                <img class="col-sm-4" src="img/railsgirls-boy.png">
-                <div class="col-sm-8">
-                  Thomas Ritter
-                  <small>@nethad</small>
-                </div>
-              </div>
-            </div>
-          </a>
-
-          <a href="https://twitter.com/nerdinand">
-            <div class="col-sm-4">
-              <div class="row">
-                <img class="col-sm-4" src="img/railsgirls-boy.png">
-                <div class="col-sm-8">
-                  Ferdinand Niedermann
-                  <small>@nerdinand</small>
-                </div>
-              </div>
-            </div>
-          </a>
-
-        </div>
-
-        <br />
-
-        <h5>Coaching</h3>
-
-        <div class="row">
-
-          <a>
-            <div class="col-sm-4">
-              <div class="row">
-                <img class="col-sm-4" src="img/railsgirls-boy.png">
-                <div class="col-sm-8">
-                  Sebastian Pape
-                </div>
-              </div>
-            </div>
-          </a>
-
-          <a>
-            <div class="col-sm-4">
-              <div class="row">
-                <img class="col-sm-4" src="img/railsgirls-boy.png">
-                <div class="col-sm-8">
-                  Jeremy Seitz
-                </div>
-              </div>
-            </div>
-          </a>
-
-          <a>
-            <div class="col-sm-4">
-              <div class="row">
-                <img class="col-sm-4" src="img/railsgirls-boy.png">
-                <div class="col-sm-8">
-                  Raffael Fibbioli
-                </div>
-              </div>
-            </div>
-          </a>
-
-        </div>
-
-        <br />
-
-        <div class="row">
-
-          <a>
-            <div class="col-sm-4">
-              <div class="row">
-                <img class="col-sm-4" src="img/railsgirls-boy.png">
-                <div class="col-sm-8">
-                  Dang Nguyen
-                </div>
-              </div>
-            </div>
-          </a>
-
-          <a>
-            <div class="col-sm-4">
-              <div class="row">
-                <img class="col-sm-4" src="img/railsgirls-boy.png">
-                <div class="col-sm-8">
-                  Sascha Kästle
-                </div>
-              </div>
-            </div>
-          </a>
-
-        </div>
-
-        <br />
-
-        <p>
-          If you want to join our team or help us out in any other way, please feel
-          free to contact us on <a href="mailto:rubymonstas-zurich@googlegroups.com">our
-          mailing list</a>!
-        </p>
-      </div>
-
-    </div>
-  </body>
-</html>
+<div class='clearfix'>
+  <strong>Do you want to join our team?</strong>
+  <p>
+    If you want to join our team or help us out in any other way, please feel
+    free to contact us on <a href="https://twitter.com/rubymonstas_ch">Twitter</a>!
+  </p>
+</div>

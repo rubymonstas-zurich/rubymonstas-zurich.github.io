@@ -1,0 +1,27 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 15px;
+  line-height: 1.5em;
+}
+
+a, a:visited {
+  color: rgb(217, 16, 10);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(171, 18, 13);
+  text-decoration: underline;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.align-center {
+  text-align: center;
+}
