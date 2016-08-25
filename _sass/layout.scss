@@ -1,0 +1,52 @@
+.col-mascotte {
+  width: 44%;
+  min-height: 100%;
+  position: fixed;
+  background-image: url(/assets/full-logo.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.col-content {
+  width: 56%;
+  min-height: 100%;
+  float: right;
+  background: #f8f8f8;
+}
+
+
+.logo {
+  display: none;
+  text-align: center;
+  margin-bottom: 26px;
+  & img {
+    max-width: 168px;
+  }
+}
+
+.content {
+  padding: 34px;
+  max-width: 500px;
+  margin: 16px auto;
+}
+
+
+
+@media only screen and (max-width: 860px)  {
+  .logo {
+    display: block;
+  }
+
+  .col-mascotte {
+    display: none;
+  }
+
+  .col-content {
+    width: 100%;
+    background: #fff;
+  }
+
+  .content {
+    padding: 34px 18px;
+  }
+}
