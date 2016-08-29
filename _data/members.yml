@@ -7,35 +7,44 @@
   name: Ferdinand Niedermann
   twitter_username: nerdinand
   role: Organizer & Coach
-  
+
 - gender: m
   name: Jeremy Seitz
+  twitter_username: foz
   role: Coach
-  
+
 - gender: f
   name: Katja Gräfenhain
   twitter_username: k_graefenhain
   role: Organizer & Coach
-  
+
 - gender: f
   name: Marion Schleifer
   twitter_username: rubydwarf
   role: Organizer & Coach
-  
+
 - gender: m
   name: Pascal Betz
+  twitter_username: betzpascal
   role: Coach
-  
+
 - gender: m
   name: Sascha Kästle
+  twitter_username: skaestle
   role: Coach
-  
+
 - gender: m
   name: Sebastian Pape
+  twitter_username: pape_io
   role: Coach
-  
+
 - gender: m
   name: Thomas Ritter
   twitter_username: nethad
   role: Organizer & Coach
-  
+
+- gender: m
+  name: Thomas Maurer
+  twitter_username: t_m_a
+  role: Coach
+
