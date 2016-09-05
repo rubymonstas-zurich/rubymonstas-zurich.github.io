@@ -1,7 +1,18 @@
+- number: 18
+  date: 12.09.2016
+  description:
+    - TBD
+  location: simplificator
+- number: 17
+  date: 05.09.2016
+  description:
+    - '<a href="/materials/beginners/session17/session17-slides.pdf">Session 17 slides: Objects and Classes, object-oriented programming</a>'
+    - '<a href="/materials/beginners/session17/session17-exercises.pdf">Exercises</a>'
+  location: localsearch
 - number: 16
   date: 29.08.2016
   description:
-    - TBA
+    - Repetition
   location: tamedia
 - number: 15
   date: 22.08.2016
