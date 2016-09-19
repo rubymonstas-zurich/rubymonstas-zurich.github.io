@@ -11,7 +11,8 @@
 - number: 18
   date: 12.09.2016
   description:
-    - TBD
+    - '<a href="/materials/beginners/session18/session18-slides.pdf">Slides: Recap, Cat example</a>'
+    - '<a href="/materials/beginners/session18/cat.rb">cat.rb</a>'
   location: simplificator
 - number: 17
   date: 05.09.2016
