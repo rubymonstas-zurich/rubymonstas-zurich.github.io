@@ -1,3 +1,13 @@
+- number: 20
+  date: 26.09.2016
+  description:
+    - TBD
+  location: simplificator
+- number: 19
+  date: 19.09.2016
+  description:
+    - '<a href="/materials/beginners/session19/session19-exercises.pdf">Exercises</a>'
+  location: simplificator
 - number: 18
   date: 12.09.2016
   description:
