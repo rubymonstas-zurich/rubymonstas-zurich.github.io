@@ -1,12 +1,12 @@
 - number: 20
   date: 26.09.2016
   description:
-    - TBD
+    - '<a href="/materials/beginners/session20/session20-exercises.pdf">Exercises (Todo List App, Part 2)</a>'
   location: simplificator
 - number: 19
   date: 19.09.2016
   description:
-    - '<a href="/materials/beginners/session19/session19-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/beginners/session19/session19-exercises.pdf">Exercises (Todo List App, Part 1)</a>'
   location: simplificator
 - number: 18
   date: 12.09.2016
@@ -119,4 +119,3 @@
     - <a href="/materials/beginners/session1/session1-exercises.pdf">Exercises</a>
     - '<a href="/materials/beginners/session1/session1-command-line-cheat-sheet.pdf">Command line cheat sheet</a>'
   location: simplificator
-
