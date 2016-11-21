@@ -1,0 +1,49 @@
+- number: 8
+  date: 28.11.2016
+  description:
+  location: simplificator
+- number: 7
+  date: 21.11.2016
+  description:
+    - '<a href="/materials/group3/session07/session07-slides.pdf">Session 7 slides: Hash</a>'
+    - <a href="/materials/group3/session07/session07-exercises.pdf">Exercises</a>
+  location: localsearch
+- number: 6
+  date: 14.11.2016
+  description:
+    - '<a href="/materials/group3/session06/session06-slides.pdf">Session 6 slides: Boolean Operators</a>'
+    - <a href="/materials/group3/session06/session06-exercises.pdf">Exercises</a>
+  location: simplificator
+- number: 5
+  date: 07.11.2016
+  description:
+    - '<a href="/materials/group3/session05/session5-slides.pdf">Session 5 slides: Control structures (recap)</a>'
+    - <a href="/materials/group3/session05/session5-exercises.pdf">Exercises</a>
+  location: simplificator
+- number: 4
+  date: 31.10.2016
+  description:
+    - '<a href="/materials/group3/session04/session4-slides.pdf">Session 4 slides: Control structures</a>'
+    - <a href="/materials/group3/session04/session4-exercises.pdf">Exercises</a>
+  location: simplificator
+- number: 3
+  date: 24.10.2016
+  description:
+    - '<a href="/materials/group3/session03/session3slides.pdf">Session 3 slides: Recap on Variables, Booleans &amp; Arrays</a>'
+    - <a href="/materials/group3/session03/session3exercises.pdf">Exercises</a>
+  location: localsearch
+- number: 2
+  date: 17.10.2016
+  description:
+    - '<a href="/materials/group3/session02/session2-slides.pdf">Session 2 slides: Variables, booleans, arrays</a>'
+    - <a href="/materials/group3/session02/session2-exercises.pdf">Exercises</a>
+    - <a href="/materials/group3/session02/session2-command-line-cheat-sheet.pdf">Command line cheat sheet part 2</a>
+  location: simplificator
+- number: 1
+  date: 10.10.2016
+  description:
+    - <a href="/materials/group3/session01/session1-welcome-slides.pdf">Welcome slides</a>
+    - <a href="/materials/group3/session01/session1-slides.pdf">Session 1 slides Command line, strings, numbers</a>
+    - <a href="/materials/group3/session01/session1-exercises.pdf">Exercises</a>
+    - '<a href="/materials/group3/session01/session1-command-line-cheat-sheet.pdf">Command line cheat sheet</a>'
+  location: simplificator
