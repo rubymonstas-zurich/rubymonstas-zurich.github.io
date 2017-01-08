@@ -1,3 +1,10 @@
+- number: 10
+  date: 09.01.2017
+  description:
+    - '<a href="/materials/group3/session10/session10-slides.pdf">Session 10 slides: Errors, Symbols, Ranges</a>'
+    - '<a href="/materials/group3/session10/session10-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/group3/session10/session10-error-exercise.rb">Error Exercises</a>'
+  location: simplificator
 - number: 9
   date: 12.12.2016
   description:
