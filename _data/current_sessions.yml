@@ -1,3 +1,9 @@
+- number: 11
+  date: 16.01.2017
+  description:
+    - '<a href="/materials/group3/session11/session11-slides.pdf">Session 11 slides: Instance variables, IRC Bot Project</a>'
+    - '<a href="https://github.com/nerdinand/ruby-irc-bot/archive/0.2.zip">irc_bot.zip</a>, the basis for our IRC bot project. <a href="https://github.com/nerdinand/ruby-irc-bot">IRC bot Github project</a>'
+  location: simplificator
 - number: 10
   date: 09.01.2017
   description:
