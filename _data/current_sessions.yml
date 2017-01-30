@@ -1,3 +1,14 @@
+- number: 12
+  date: 30.01.2017
+  description:
+    - '<a href="/materials/group3/session12/session12-slides.pdf">Session 12 slides: Classes, Objects</a>'
+    - '<a href="/materials/group3/session12/session12-exercises.pdf">Exercises</a>'
+  location: simplificator
+- number: 11b
+  date: 23.01.2017
+  description:
+    - 'Continued: IRC Bot'
+  location: simplificator
 - number: 11
   date: 16.01.2017
   description:
