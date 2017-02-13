@@ -1,20 +1,35 @@
+- number: 13
+  date: 13.02.2017
+  description:
+    - '<a href="/materials/group3/session13/session13-exercises.pdf">Exercise: Cat organizer</a>'
+  location: simplificator
+
+- number: 12b
+  date: 6.02.2017
+  description:
+    - 'Continued: Classes, Objects'
+  location: simplificator
+
 - number: 12
   date: 30.01.2017
   description:
     - '<a href="/materials/group3/session12/session12-slides.pdf">Session 12 slides: Classes, Objects</a>'
     - '<a href="/materials/group3/session12/session12-exercises.pdf">Exercises</a>'
   location: simplificator
+
 - number: 11b
   date: 23.01.2017
   description:
     - 'Continued: IRC Bot'
   location: simplificator
+
 - number: 11
   date: 16.01.2017
   description:
     - '<a href="/materials/group3/session11/session11-slides.pdf">Session 11 slides: Instance variables, IRC Bot Project</a>'
     - '<a href="https://github.com/nerdinand/ruby-irc-bot/archive/0.2.zip">irc_bot.zip</a>, the basis for our IRC bot project. <a href="https://github.com/nerdinand/ruby-irc-bot">IRC bot Github project</a>'
   location: simplificator
+
 - number: 10
   date: 09.01.2017
   description:
@@ -22,6 +37,7 @@
     - '<a href="/materials/group3/session10/session10-exercises.pdf">Exercises</a>'
     - '<a href="/materials/group3/session10/session10-error-exercise.rb">Error Exercises</a>'
   location: simplificator
+
 - number: 9
   date: 12.12.2016
   description:
@@ -29,47 +45,55 @@
     - '<a href="/materials/group3/session09/session09-exercises.pdf">Exercises</a>'
     - '<a href="/materials/group3/session09/session09-ruby-cheat-sheet.pdf">Ruby cheat sheet: Blocks</a>'
   location: simplificator
+
 - number: 8b
   date: 5.12.2016
   description:
     - 'Repetition'
   location: simplificator
+
 - number: 8
   date: 28.11.2016
   description:
     - '<a href="/materials/group3/session08/session08-slides.pdf">Session 8 slides: Hash</a>'
     - <a href="/materials/group3/session08/session08-exercises.pdf">Exercises</a>
   location: simplificator
+
 - number: 7
   date: 21.11.2016
   description:
     - '<a href="/materials/group3/session07/session07-slides.pdf">Session 7 slides: Hash</a>'
     - <a href="/materials/group3/session07/session07-exercises.pdf">Exercises</a>
   location: localsearch
+
 - number: 6
   date: 14.11.2016
   description:
     - '<a href="/materials/group3/session06/session06-slides.pdf">Session 6 slides: Boolean Operators</a>'
     - <a href="/materials/group3/session06/session06-exercises.pdf">Exercises</a>
   location: simplificator
+
 - number: 5
   date: 07.11.2016
   description:
     - '<a href="/materials/group3/session05/session5-slides.pdf">Session 5 slides: Control structures (recap)</a>'
     - <a href="/materials/group3/session05/session5-exercises.pdf">Exercises</a>
   location: simplificator
+
 - number: 4
   date: 31.10.2016
   description:
     - '<a href="/materials/group3/session04/session4-slides.pdf">Session 4 slides: Control structures</a>'
     - <a href="/materials/group3/session04/session4-exercises.pdf">Exercises</a>
   location: simplificator
+
 - number: 3
   date: 24.10.2016
   description:
     - '<a href="/materials/group3/session03/session3slides.pdf">Session 3 slides: Recap on Variables, Booleans &amp; Arrays</a>'
     - <a href="/materials/group3/session03/session3exercises.pdf">Exercises</a>
   location: localsearch
+
 - number: 2
   date: 17.10.2016
   description:
@@ -77,6 +101,7 @@
     - <a href="/materials/group3/session02/session2-exercises.pdf">Exercises</a>
     - <a href="/materials/group3/session02/session2-command-line-cheat-sheet.pdf">Command line cheat sheet part 2</a>
   location: simplificator
+
 - number: 1
   date: 10.10.2016
   description:
