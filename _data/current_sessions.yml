@@ -1,3 +1,9 @@
+- number: 14
+  date: 06.03.2017
+  description:
+    - '<a href="/materials/group3/session14/session14-exercises.pdf">Exercise: Cat organizer continued</a>'
+  location: simplificator
+
 - number: 13c
   date: 27.02.2017
   description:
@@ -67,7 +73,7 @@
 - number: 8
   date: 28.11.2016
   description:
-    - '<a href="/materials/group3/session08/session08-slides.pdf">Session 8 slides: Hash</a>'
+    - '<a href="/materials/group3/session08/session08-slides.pdf">Session 8 slides: Methods</a>'
     - <a href="/materials/group3/session08/session08-exercises.pdf">Exercises</a>
   location: simplificator
 
