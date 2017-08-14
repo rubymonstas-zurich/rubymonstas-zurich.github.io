@@ -1,0 +1,177 @@
+- number: 1
+  topic: Welcome, command line, strings, numbers
+  description:
+    - '<a href="/materials/canonical/session01/session1-welcome-slides.pdf">Welcome slides</a>'
+    - '<a href="/materials/canonical/session01/session1-slides.pdf">Session 1 slides: Command line, strings, numbers</a>'
+    - '<a href="/materials/canonical/session01/session1-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/canonical/session01/session1-command-line-cheat-sheet.pdf">Command line cheat sheet</a>'
+- number: 2
+  topic: Variables, booleans, arrays
+  description:
+    - '<a href="/materials/canonical/session02/session2-welcome-slides.pdf">Welcome slides</a>'
+    - '<a href="/materials/canonical/session02/session2-slides.pdf">Session 2 slides: Variables, booleans, arrays</a>'
+    - '<a href="/materials/canonical/session02/session2-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/canonical/session02/session2-command-line-cheat-sheet.pdf">Command line cheat sheet part 2</a>'
+- number: 3
+  topic: More on strings, Hashes
+  description:
+    - '<a href="/materials/canonical/session03/session3-slides.pdf">Session 3 slides: More on strings, Hashes</a>'
+    - '<a href="/materials/canonical/session03/session3-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/canonical/session03/session3-interactive-recap.pdf">Interactive Recap</a>'
+- number: 4
+  topic: Control Structures
+  description:
+    - '<a href="/materials/canonical/session04/session4-slides.pdf">Session 4 slides: Control structures</a>'
+    - '<a href="/materials/canonical/session04/session4-exercises.pdf">Exercises</a>'
+- number: 5
+  topic: Methods
+  description:
+    - '<a href="/materials/canonical/session05/session5-slides.pdf">Session 5 slides: Methods</a>'
+    - '<a href="/materials/canonical/session05/session5-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/canonical/session05/session5-ruby-cheat-sheet.pdf">Ruby cheat sheet: Data types, Arrays, Hashes</a>'
+- number: 6
+  topic: Error messages, Boolean Operators
+  description:
+    - '<a href="/materials/canonical/session06/session6-slides.pdf">Session 6 slides: Error messages, Boolean operators</a>'
+    - '<a href="/materials/canonical/session06/session6-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/canonical/session06/session6-ruby-cheat-sheet.pdf">Ruby cheat sheet: Control structures, Methods, Truth tables</a>'
+    - '<a href="/materials/canonical/session06/session6-error-exercise.rb">Interactive error exercise</a>'
+    - '<a href="/materials/canonical/session06/session6-error-exercise-solution.rb">Interactive error exercise - solution</a>'
+- number: 7
+  topic: Instance variables, IRC Bot
+  description:
+    - '<a href="/materials/canonical/session07/session7-slides.pdf">Session 7 slides: Boolean operators recap, Instance variables, IRC Bot project</a>'
+    - '<a href="https://raw.githubusercontent.com/nerdinand/ruby-irc-bot/master/irc_bot.rb">irc_bot.rb</a>, the basis for our IRC bot project. <a href="https://github.com/nerdinand/ruby-irc-bot">IRC bot Github project</a>'
+- number: 8
+  topic: IRC Bot Recap
+  description:
+    - '<a href="/materials/canonical/session08/session8-slides.pdf">Session 8 slides: IRC Bot recap</a>'
+- number: 9
+  topic: Blocks
+  description:
+    - '<a href="/materials/canonical/session09/session9-slides.pdf">Session 9 slides: Blocks</a>'
+    - '<a href="/materials/canonical/session09/session9-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/canonical/session09/session9-ruby-cheat-sheet.pdf">Ruby cheat sheet: Blocks</a>'
+- number: 10
+  topic: Symbols, Ranges
+  description:
+    - '<a href="/materials/canonical/session10/session10-slides.pdf">Session 10 slides: Symbols and ranges</a>'
+    - '<a href="/materials/canonical/session10/session10-exercises.pdf">Exercises</a>'
+- number: 11
+  topic: Classes and Objects
+  description:
+    - '<a href="/materials/canonical/session11/session11-slides.pdf">Session 11 slides: Classes and Objects</a>'
+    - '<a href="/materials/canonical/session11/session11-exercises.pdf">Exercises</a>'
+- number: 12
+  topic: The Ruby Standard Library
+  description:
+    - '<a href="/materials/canonical/session12/session12-slides.pdf">Session 12 slides: The Ruby Standard Library</a>'
+    - '<a href="/materials/canonical/session12/session12-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/canonical/session12/order_analysis.rb">order_analysis.rb</a>'
+    - '<a href="/materials/canonical/session12/customers.csv">customers.csv</a>'
+    - '<a href="/materials/canonical/session12/orders.csv">orders.csv</a>'
+- number: 13
+  topic: Class Methods and Class Variables, Time
+  description:
+    - '<a href="/materials/canonical/session13/session13-slides.pdf">Session 13 slides: Class Methods and Class Variables &amp; Time</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/todolist-exercise">Exercises</a>'
+- number: 14
+  topic: "Excursion Standard Library: RSS"
+  description:
+    - '<a href="/materials/canonical/session14/session14-slides.pdf">Session 14 slides: Standard Library: RSS</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/20min-newsreader-exercise">Exercises</a>'
+- number: 15
+  topic: HTML
+  description:
+    - '<a href="/materials/canonical/session15/session15-slides.pdf">Session 15 slides: HTML</a>'
+    - '<a href="/materials/canonical/session15/session15-exercises.pdf">Exercises</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/todolist-exporter">Code for exercises</a>'
+- number: 16
+  topic: ERB and CSS
+  description:
+    - '<a href="/materials/canonical/session16/session16-slides.pdf">Session 16 slides: ERB &amp; CSS</a>'
+    - '<a href="/materials/canonical/session16/session16-exercises.pdf">Exercises</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/todolist-exporter/tree/feature/erb-exporter">Code for exercises</a>'
+- number: 18
+  topic: Rubygems and Bundler
+  description:
+    - '<a href="/materials/canonical/session18/session18-slides.pdf">Session 18 slides: Rubygems &amp; Bundler</a>'
+    - '<a href="/materials/canonical/session18/session18-exercises.pdf">Exercises</a>'
+- number: 19
+  topic: Networking and HTTP
+  description:
+    - '<a href="/materials/canonical/session19/session19-slides.pdf">Session 19 slides: Networking &amp; HTTP</a>'
+    - '<a href="/materials/canonical/session19/session19-exercises.pdf">Exercises</a>'
+- number: 20
+  topic: HTML Forms and HTTP POST
+  description:
+    - '<a href="/materials/canonical/session20/session20-slides.pdf">Session 20: HTML Forms & HTTP POST</a>'
+    - '<a href="/materials/canonical/session20/session20-exercises.pdf">Exercises</a>'
+- number: 21
+  topic: HTML, CSS, HTTP Recap
+  description:
+    - '<a href="/materials/canonical/session21/session21-slides.pdf">Session 21 slides: Recap</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/sinatraform">Example Sinatra application</a>'
+- number: 22
+  topic: HTML tables and links
+  description:
+    - '<a href="/materials/canonical/session22/session22-slides.pdf">Session 22: HTML tables &amp; links</a>'
+    - '<a href="/materials/canonical/session22/session22-exercises.pdf">Exercises</a>'
+- number: 23
+  topic: HTML tables and links part 2
+  description:
+    - '<a href="/materials/canonical/session23/session23-slides.pdf">Session 23: HTML tables &amp; links</a>'
+    - '<a href="/materials/canonical/session23/session23-exercises.pdf">Exercises</a>'
+- number: 24
+  topic: Layout elements and HTML 5
+  description:
+    - '<a href="/materials/canonical/session24/session24-slides.pdf">Session 24: Layout elements &amp; HTML5</a>'
+    - '<a href="/materials/canonical/session24/session24-exercises.pdf">Exercises</a>'
+- number: 25
+  topic: Layouts
+  description:
+    - '<a href="/materials/canonical/session25/session25-slides.pdf">Session 25: Layouts</a>'
+    - '<a href="/materials/canonical/session25/session25-exercises.pdf">Exercises</a>'
+- number: 26
+  topic: Layouts part 2
+  description:
+    - '<a href="/materials/canonical/session26/session26-slides.pdf">Session 26: Layouts</a>'
+    - '<a href="/materials/canonical/session26/session26-exercises.pdf">Exercises</a>'
+- number: 27
+  topic: Recap
+  description:
+    - '<a href="/materials/canonical/session27/session27-slides.pdf">Session 27: 2015 Recap</a>'
+    - '<a href="/materials/canonical/session27/session27-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/canonical/session27/bev_wegzug_jahr_quartier_seit_2014.csv">CSV: Wegzüge nach Jahr und Quartier (seit 2014)</a>,<br /><a href="https://data.stadt-zuerich.ch/dataset/bev-bestand-jahr-quartier-nationalitaet">Open Data, City of Zurich</a>'
+- number: 28
+  topic: Introduction to databases
+  description:
+    - '<a href="/materials/canonical/session28/session28-slides.pdf">Session 28: Introduction to databases, Part 1</a>'
+    - '<a href="/materials/canonical/session28/session28-exercises.pdf">Exercises</a>'
+- number: 29
+  topic: SQL
+  description:
+    - '<a href="/materials/canonical/session29/session29-slides.pdf">Session 29: SQL Part 2 (UPDATE, DELETE, Primary Keys, Foreign Keys)</a>'
+    - '<a href="/materials/canonical/session29/session29-exercises.pdf">Exercises</a>'
+- number: 30
+  topic: Object-relational mapping (ORM)
+  description:
+    - '<a href="/materials/canonical/session30/session30-slides.pdf">Session 30: Object-relational mapping (ORM)</a>'
+    - '<a href="/materials/canonical/session30/session30-exercises.pdf">Exercises</a>'
+- number: 31
+  topic: Database exercises
+  description:
+    - '<a href="/materials/canonical/session31/session31-exercises.pdf">Exercises</a>'
+- number: 32
+  topic: IRB, Recap
+  description:
+    - '<a href="/materials/canonical/session32/session32-slides.pdf">Slides (IRB, Recap)</a>'
+- number: 33
+  topic: "Project: Simple blog"
+  description:
+    - '<a href="/materials/canonical/session33/session33-exercises.pdf">Exercises (Simple Blog)</a>'
+- number: 34
+  topic: REST
+  description:
+    - '<a href="/materials/canonical/session34/session34-slides.pdf">Session 34: REST</a>'
+    - '<a href="/materials/canonical/session34/session34-exercises.pdf">Exercises (Blog Comments)</a>'
