@@ -29,6 +29,8 @@
   description:
     - '<a href="/materials/canonical/session05/session5-slides.pdf">Session 5 slides: Methods</a>'
     - '<a href="/materials/canonical/session05/session5-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/canonical/session05/session5-exercises-tiny-games.pdf">Exercises: Tiny games</a>'
+    - '<a href="/materials/canonical/session05/typing_game.rb">typing_game.rb</a>'
     - '<a href="/materials/canonical/session05/session5-ruby-cheat-sheet.pdf">Ruby cheat sheet: Data types, Arrays, Hashes</a>'
 - number: 6
   topic: Error messages, Boolean Operators
