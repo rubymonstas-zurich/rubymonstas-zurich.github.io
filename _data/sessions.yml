@@ -44,7 +44,7 @@
   topic: Instance variables, IRC Bot
   description:
     - '<a href="/materials/canonical/session07/session7-slides.pdf">Session 7 slides: Boolean operators recap, Instance variables, IRC Bot project</a>'
-    - '<a href="https://github.com/nerdinand/ruby-irc-bot/archive/master.zip">master.zip</a> containing the basis for our IRC bot project. Extract it, then edit and run irc_bot.rb. <a href="https://github.com/nerdinand/ruby-irc-bot">IRC bot Github project</a>'
+    - 'IRC bot exercise: Download <a href="https://github.com/nerdinand/ruby-irc-bot/archive/master.zip">master.zip</a>. This contains the basis for our IRC bot project. Extract it, then edit and run irc_bot.rb. <a href="https://github.com/nerdinand/ruby-irc-bot">IRC bot Github project</a>'
 - number: 8
   topic: IRC Bot Recap
   description:
