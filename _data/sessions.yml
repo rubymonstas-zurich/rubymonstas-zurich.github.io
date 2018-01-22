@@ -67,6 +67,7 @@
     - '<a href="/materials/canonical/session11/session11-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session11/intro_to_testing.rb">Code: Introduction to testing</a>'
     - '<a href="/materials/canonical/session11/trip_exercise.rb">Exercise: Classes and testing</a>'
+    - '<a href="/materials/canonical/session11/calorie_tracker.rb">Exercise: Calorie tracker</a>'
 - number: 12
   topic: The Ruby Standard Library
   description:
