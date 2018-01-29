@@ -1,6 +1,26 @@
 require 'minitest/autorun'
-
 require_relative 'bug'
+
+# === "A Bug's Life" Excercise ====
+#
+# This excercise contains 4 predefined tests
+# and is supposed to test the code in `bug.rb`.
+#
+# Try to write the tests **without looking** into the implementation
+# of `bug.rb`. Use assertions like
+#
+# * assert
+# * assert_equal
+# * (etc. see http://docs.seattlerb.org/minitest/Minitest/Assertions.html for more)
+#
+# Be aware that `bug.rb` contains actual bugs (!) and you should be able 
+# to detect them using correct tests.
+# You should fix the bugs and make the tests green.
+# However, it can be confusing though, but try not to give up. ;-)
+#
+# Feel free to come up with new features and tests!
+#
+# Enjoy and good luck!
 
 class BugTest < Minitest::Test
   def test_bug_name_is_correct
