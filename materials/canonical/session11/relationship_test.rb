@@ -33,9 +33,9 @@ class RelationshipTest < Minitest::Test
   # 'mother') and the two bugs that are part of the relationship.
   def test_relationship_attributes
     skip # remove this line when you want to work on this test
-    assert('father', @father_relationship.kind)
-    assert(@father_bug, @father_relationship.bug1)
-    assert(@child_bug, @father_relationship.bug2)
+    assert_equal('father', @father_relationship.kind)
+    assert_equal(@father_bug, @father_relationship.bug1)
+    assert_equal(@child_bug, @father_relationship.bug2)
   end
 
   # This tests a method that returns a textual description of a relationship.
