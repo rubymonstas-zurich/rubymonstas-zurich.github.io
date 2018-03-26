@@ -80,9 +80,10 @@
     - '<a href="/materials/canonical/session12/order_analysis.rb">order_analysis.rb</a>'
     - '<a href="/materials/canonical/session12/customers.csv">customers.csv</a>'
     - '<a href="/materials/canonical/session12/orders.csv">orders.csv</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/students-csv/blob/master/Exercise.md">Exercise</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/students-csv/archive/master.zip">Exercise source code</a>'
-    - '<a href="/materials/canonical/session12/session12-interlude.pdf">Interlude: Binary, Data Representation, Encoding</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/students-csv/blob/master/Exercise.md">Students CSV Exercise</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/students-csv/archive/master.zip">Students CSV Exercise source code</a>'
+    - '<a href="/materials/canonical/session12/session12-interlude-encoding.pdf">Interlude: Binary, Data Representation, Encoding</a>'
+    - '<a href="/materials/canonical/session12/session12-interlude-anti-pattern.pdf">Interlude: An anti-pattern</a>'
 - number: 13
   topic: Class Methods and Class Variables, Time
   description:
