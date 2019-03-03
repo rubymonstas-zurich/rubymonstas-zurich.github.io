@@ -8,7 +8,6 @@
 - number: 2
   topic: Variables, booleans, arrays
   description:
-    - '<a href="/materials/canonical/session02/session2-welcome-slides.pdf">Welcome slides</a>'
     - '<a href="/materials/canonical/session02/session2-slides.pdf">Session 2 slides: Variables, booleans, arrays</a>'
     - '<a href="/materials/canonical/session02/session2-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session02/session2-command-line-cheat-sheet.pdf">Command line cheat sheet part 2</a>'
