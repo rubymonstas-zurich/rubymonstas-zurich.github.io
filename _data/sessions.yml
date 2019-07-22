@@ -63,12 +63,11 @@
   topic: Classes and Objects
   description:
     - '<a href="/materials/canonical/session11/session11-slides.pdf">Session 11 slides: Classes and Objects</a>'
-    - '<a href="/materials/canonical/session11/intro_to_testing.rb">Code: Introduction to testing</a>'
-    - '<a href="/materials/canonical/session11/trip_exercise.rb">Exercise: Trip</a>'
-    - '<a href="/materials/canonical/session11/bug.rb">Exercise: Bug</a>'
-    - '<a href="/materials/canonical/session11/bug_test.rb">Exercise: Bug Test</a>'
-    - '<a href="/materials/canonical/session11/relationship.rb">Exercise: Bug Relationship</a>'
-    - '<a href="/materials/canonical/session11/relationship_test.rb">Exercise: Bug Relationship Test</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/intro-to-testing/blob/master/intro_to_testing.rb">Code: Introduction to testing</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/trip-exercise/releases/">Exercise: Trip</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/bug-exercise/releases">Exercise: Bug</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/hollywood-exercise/releases">Exercise: Hollywood</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/bug-relationship-exercise/releases">Exercise: Bug Relationship</a>'
 - number: 12
   topic: The Ruby Standard Library
   description:
