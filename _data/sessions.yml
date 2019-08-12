@@ -5,8 +5,8 @@
     01-02-ruby-first-steps: 'Ruby: First steps'
     01-03-learning-to-program: Learning to program
     01-04-setting-up: Setting up
+    01-05-irb-numbers-strings: IRB, Numbers, Strings, Methods
   description:
-    - '<a href="/materials/canonical/session01/session1-slides.pdf">Session 1 slides: Command line, strings, numbers</a>'
     - '<a href="/materials/canonical/session01/session1-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session01/session1-command-line-cheat-sheet.pdf">Command line cheat sheet</a>'
 - number: 2
