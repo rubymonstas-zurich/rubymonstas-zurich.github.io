@@ -1,0 +1,27 @@
+<div class='topic'>
+  <h2>{{topic.topic}}</h2>
+  
+  <p>
+    {{topic.description}}
+  </p>
+  
+  {% if topic.slides %}
+    <h3>Slides</h3>
+    <ul>
+      {% for slide in topic.slides %}
+        <li><a href="http://rubymonstas.ch/slides.rubymonstas.ch/slides/{{slide[0]}}/">{{ slide[1] }}</a> (<a href="https://github.com/rubymonstas-zurich/slides.rubymonstas.ch/releases/latest/download/{{slide[0]}}.pdf">PDF</a>)</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  
+  {% if topic.exercises %}
+    <h3>Exercises</h3>
+    <ul>
+      {% for exercise in topic.exercises %}
+        <li>
+          <a href="/exercises/{{exercise[0]}}">{{ exercise[1] }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>
