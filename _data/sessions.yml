@@ -5,7 +5,10 @@
     ruby-first-steps: 'Ruby: First steps'
     learning-to-program: Learning to program
     setting-up: Setting up
-    irb-numbers-strings-methods: IRB, Numbers, Strings, Methods
+    irb: IRB (Interactive Ruby)
+    numbers: Numbers
+    strings: Strings
+    methods: Methods
   description:
     - '<a href="/materials/canonical/session01/session1-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session01/session1-command-line-cheat-sheet.pdf">Command line cheat sheet</a>'

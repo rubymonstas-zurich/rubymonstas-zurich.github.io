@@ -7,12 +7,30 @@
     setting-up: Setting up
   exercises:
 
-- topic: IRB, Numbers, Strings, Methods
-  description: In this topic we start diving into programming with Ruby. We look at the Interactive Ruby program (IRB) and we tackle the topics Numbers, Strings and Methods.
+- topic: IRB (Interactive Ruby)
+  description: In this topic we start diving into programming with Ruby. We look at how we can try Ruby commands in the Interactive Ruby program (IRB).
   slides:
-    irb-numbers-strings-methods: IRB, Numbers, Strings, Methods
+    irb: IRB
   exercises:
     irb: IRB
+
+- topic: Numbers
+  description: We look at Numbers and how to do simple math in Ruby.
+  slides:
     numbers: Numbers
+  exercises:
+    numbers: Numbers
+
+- topic: Strings
+  description: We learn about Strings (of characters) and how to use them.
+  slides:
     strings: Strings
+  exercises:
+    strings: Strings
+
+- topic: Methods
+  description: We learn what Methods are and how we can use them to interact with objects in the Ruby world.
+  slides:
+    methods: Methods
+  exercises:
     methods: Methods
