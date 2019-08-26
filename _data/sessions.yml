@@ -1,22 +1,22 @@
 - number: 1
   topic: Welcome, Numbers, Strings
   slides:
-    01-01-welcome: Welcome slides
-    01-02-ruby-first-steps: 'Ruby: First steps'
-    01-03-learning-to-program: Learning to program
-    01-04-setting-up: Setting up
-    01-05-irb-numbers-strings-methods: IRB, Numbers, Strings, Methods
+    welcome: Welcome slides
+    ruby-first-steps: 'Ruby: First steps'
+    learning-to-program: Learning to program
+    setting-up: Setting up
+    irb-numbers-strings-methods: IRB, Numbers, Strings, Methods
   description:
     - '<a href="/materials/canonical/session01/session1-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session01/session1-command-line-cheat-sheet.pdf">Command line cheat sheet</a>'
 - number: 2
   topic: Variables, Arrays
   slides:
-    02-01-programming-workflow: Programming Workflow
-    02-02-variables: Variables
-    02-03-puts-gets: puts and gets
-    02-04-comparison-operators: Comparison Operators
-    02-05-arrays: Arrays
+    programming-workflow: Programming Workflow
+    variables: Variables
+    puts-gets: puts and gets
+    comparison-operators: Comparison Operators
+    arrays: Arrays
   description:
     - '<a href="/materials/canonical/session02/session2-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session02/session2-command-line-cheat-sheet.pdf">Command line cheat sheet part 2</a>'

@@ -1,16 +1,16 @@
 - topic: Welcome to Ruby Monstas!
   description: This topic is all about explaining what Ruby Monstas is and getting you ready to learn to program!
   slides:
-    01-01-welcome: Welcome slides
-    01-02-ruby-first-steps: 'Ruby: First steps'
-    01-03-learning-to-program: Learning to program
-    01-04-setting-up: Setting up
+    welcome: Welcome slides
+    ruby-first-steps: 'Ruby: First steps'
+    learning-to-program: Learning to program
+    setting-up: Setting up
   exercises:
 
 - topic: IRB, Numbers, Strings, Methods
   description: In this topic we start diving into programming with Ruby. We look at the Interactive Ruby program (IRB) and we tackle the topics Numbers, Strings and Methods.
   slides:
-    01-05-irb-numbers-strings-methods: IRB, Numbers, Strings, Methods
+    irb-numbers-strings-methods: IRB, Numbers, Strings, Methods
   exercises:
     irb: IRB
     numbers: Numbers
