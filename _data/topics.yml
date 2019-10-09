@@ -5,6 +5,7 @@
     ruby-first-steps: 'Ruby: First steps'
     learning-to-program: Learning to program
     setting-up: Setting up
+    programming-workflow: Programming Workflow
   exercises:
 
 - topic: IRB (Interactive Ruby)
@@ -27,6 +28,13 @@
     strings: Strings
   exercises:
     strings: Strings
+
+- topic: Variables
+  description: We learn how to store data in our programs in variables.
+  slides:
+    variables: Variables
+  exercises:
+    variables: Variables
 
 - topic: Methods
   description: We learn what Methods are and how we can use them to interact with objects in the Ruby world.
