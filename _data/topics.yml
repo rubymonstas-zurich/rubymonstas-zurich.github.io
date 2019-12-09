@@ -42,3 +42,10 @@
     methods: Methods
   exercises:
     methods: Methods
+
+- topic: Hashes
+  description: We learn what Hashes are, how we can create and read from them.
+  slides:
+    hashes: Hashes
+  exercises:
+    hashes: Hashes

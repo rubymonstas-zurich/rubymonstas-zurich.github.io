@@ -25,8 +25,9 @@
     - '<a href="/materials/canonical/session02/session2-command-line-cheat-sheet.pdf">Command line cheat sheet part 2</a>'
 - number: 3
   topic: More on strings, Hashes
+  slides:
+    hashes: Hashes
   description:
-    - '<a href="/materials/canonical/session03/session3-slides.pdf">Session 3 slides: More on strings, Hashes</a>'
     - '<a href="/materials/canonical/session03/session3-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session03/session3-interactive-recap.pdf">Interactive Recap</a>'
 - number: 4
