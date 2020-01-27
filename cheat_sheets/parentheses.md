@@ -11,8 +11,8 @@ Ruby, like many programming languages uses special characters that can lead to c
 Use case | Example
 -------- | -------
 Arithmetic | `2 * (7 + 1)`
-Method definition | `def m_method(x)`
-Method call | `m_method(42)`
+Method definition | `def my_method(x)`
+Method call | `my_method(42)`
 
 
 ### Square brackets: `[ ]`
