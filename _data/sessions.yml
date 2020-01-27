@@ -30,6 +30,7 @@
   description:
     - '<a href="/materials/canonical/session03/session3-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session03/session3-interactive-recap.pdf">Interactive Recap</a>'
+    - '<a href="/cheat_sheets/parentheses">Parentheses Cheat Sheet</a>'
 - number: 4
   topic: Control Structures
   description:
