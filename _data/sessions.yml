@@ -27,6 +27,7 @@
   topic: More on strings, Hashes
   slides:
     hashes: Hashes
+    string-interpolation: String Interpolation
   description:
     - '<a href="/materials/canonical/session03/session3-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session03/session3-interactive-recap.pdf">Interactive Recap</a>'
