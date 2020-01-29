@@ -24,10 +24,10 @@
     - '<a href="/materials/canonical/session02/session2-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session02/session2-command-line-cheat-sheet.pdf">Command line cheat sheet part 2</a>'
 - number: 3
-  topic: More on strings, Hashes
+  topic: String Interpolation, Hashes
   slides:
-    hashes: Hashes
     string-interpolation: String Interpolation
+    hashes: Hashes
   description:
     - '<a href="/materials/canonical/session03/session3-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session03/session3-interactive-recap.pdf">Interactive Recap</a>'
