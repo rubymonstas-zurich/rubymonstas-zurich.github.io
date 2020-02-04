@@ -3,8 +3,6 @@ layout: exercises
 topic: Numbers
 ---
 
-{% include exercises/general_hint.html %}
-
 {% include exercises/irb_hint.html %}
 
 1.  Play around with numbers and their operators (addition, subtraction, multiplication, division)! 

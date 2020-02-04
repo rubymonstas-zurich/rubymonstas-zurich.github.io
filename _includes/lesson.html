@@ -15,7 +15,7 @@
 
   <ul>
     {% for exercise in lesson.exercises %}
-      <li><a href="/exercises/{{exercise[0]}}">Exercises: {{ exercise[1] }}</a></li>
+      <li><a href="/exercises/{{ lesson.number }}/{{ exercise[0] }}">Exercises: {{ exercise[1] }}</a></li>
     {% endfor %}
   </ul>
 

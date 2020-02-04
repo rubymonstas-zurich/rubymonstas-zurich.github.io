@@ -3,8 +3,6 @@ layout: exercises
 topic: Methods
 ---
 
-{% include exercises/general_hint.html %}
-
 {% include exercises/irb_hint.html %}
 
 1. In Ruby, methods names can end with a `?`. What's special about these kinds of methods?

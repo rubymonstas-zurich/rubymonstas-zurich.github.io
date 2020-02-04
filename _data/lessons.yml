@@ -26,9 +26,12 @@
     puts-gets: puts and gets
     comparison-operators: Comparison Operators
     arrays: Arrays
-  additional_materials:
-    - '<a href="/materials/canonical/session02/session2-exercises.pdf">Exercises</a>'
-    - '<a href="/materials/canonical/session02/session2-command-line-cheat-sheet.pdf">Command line cheat sheet part 2</a>'
+  exercises:
+    recap-1: Recap lesson 1
+    variables-puts-gets: Variables, puts and gets
+    comparison-operators: Comparison Operators
+    arrays: Arrays
+
 - number: 3
   topic: String Interpolation, Hashes
   slides:
