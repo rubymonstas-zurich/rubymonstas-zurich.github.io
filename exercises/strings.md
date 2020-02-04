@@ -3,7 +3,9 @@ layout: exercises
 topic: Strings
 ---
 
-{% include exercises/irb_hints.md %}
+{% include exercises/general_hint.html %}
+
+{% include exercises/irb_hint.html %}
 
 1.  What is a String? Try to explain it to yourself or another participant in your own words.
 2.  How do you recognize a String when it appears in Ruby code?

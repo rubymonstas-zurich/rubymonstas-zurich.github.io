@@ -3,7 +3,9 @@ layout: exercises
 topic: Methods
 ---
 
-{% include exercises/irb_hints.md %}
+{% include exercises/general_hint.html %}
+
+{% include exercises/irb_hint.html %}
 
 1. In Ruby, methods names can end with a `?`. What's special about these kinds of methods?
 2. Look at the official [Ruby documentation for String](https://ruby-doc.org/core/String.html). Find 3 methods that end with `?`. Read the documentation about them to see what they do and try them out in IRB!
