@@ -20,6 +20,7 @@
 
 - number: 2
   topic: Variables, Arrays
+  description: "In this lesson we learn about the workflow to use while programming. And we take a look at some more basic Ruby topics: Variables, puts and gets, Comparison Operators and Arrays."
   slides:
     programming-workflow: Programming Workflow
     variables: Variables
