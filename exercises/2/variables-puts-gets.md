@@ -3,7 +3,8 @@ layout: exercises
 topic: Variables, puts and gets
 ---
 
-{% include exercises/editor_hint.html %}
+{% assign file_name = "variables" %}
+{% include exercises/editor_hint.html file_name=file_name %}
 
 __Hint 1__: To output the value of something on screen, use ​`puts`​, for example ​`puts "Hello World!"​`. Of course you can also use ​`puts​` with variables!
 

@@ -38,10 +38,15 @@
   slides:
     string-interpolation: String Interpolation
     hashes: Hashes
+  exercises:
+    recap: Recap previous lessons
+    string-interpolation: String Interpolation
+    hashes: Hashes
+  cheat_sheets:
+    parentheses: Parentheses
   additional_materials:
-    - '<a href="/materials/canonical/session03/session3-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session03/session3-interactive-recap.pdf">Interactive Recap</a>'
-    - '<a href="/cheat_sheets/parentheses">Parentheses Cheat Sheet</a>'
+
 - number: 4
   topic: Control Structures
   additional_materials:

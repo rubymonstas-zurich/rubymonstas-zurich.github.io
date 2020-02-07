@@ -20,6 +20,12 @@
   </ul>
 
   <ul>
+    {% for cheat_sheet in lesson.cheat_sheets %}
+      <li><a href="/cheat_sheets/{{ cheat_sheet[0] }}">Cheat Sheet: {{ cheat_sheet[1] }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <ul>
     {% for line in lesson.additional_materials %}
       <li>Additional materials: {{line}}</li>
     {% endfor %}
