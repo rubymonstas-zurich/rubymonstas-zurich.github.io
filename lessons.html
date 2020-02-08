@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: /curriculum
+permalink: /lessons
 ---
 
 <p>
-  This page is our session archive. We've done this course multiple times in the past (the first time in June 2015).
+  This page contains all of the materials for our lessons. We've done this course multiple times in the past (the first time in June 2015).
   Please refer to <a href="https://www.meetup.com/RubyMonstas-Programming-for-Women/">our Meetup page</a> to join us on a Monday.
   Where and when we meet you can see on the meetup page as well.
 </p>
@@ -22,6 +22,6 @@ permalink: /curriculum
   A more general list of recommended resources (online courses, books, tutorials and more) can be found in this blog post: <a href="https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources">Leigh Halliday: Best Ruby &amp; Ruby on Rails Resources</a>
 </p>
 
-{% for topic in site.data.topics %}
-  {% include topic.html topic=topic %}
+{% for lesson in site.data.lessons %}
+  {% include lesson.html lesson=lesson %}
 {% endfor %}

@@ -3,7 +3,7 @@ layout: exercises
 topic: Numbers
 ---
 
-{% include exercises/irb_hints.md %}
+{% include exercises/irb_hint.html %}
 
 1.  Play around with numbers and their operators (addition, subtraction, multiplication, division)! 
     For example, calculate your age from the year you were born in.
