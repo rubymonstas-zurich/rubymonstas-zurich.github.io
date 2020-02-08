@@ -49,10 +49,13 @@
 
 - number: 4
   topic: Control Structures
+  exercises:
+    recap: Recap previous lessons
+    number-guessing: Number guessing game
+    todo-list: Todo list
   additional_materials:
     - '<a href="/materials/canonical/session04/session4-slides.pdf">Session 4 slides: Control structures</a>'
-    - '<a href="/materials/canonical/session04/session4-exercises-number-guessing.pdf">Exercises (Number guessing game)</a>'
-    - '<a href="/materials/canonical/session04/session4-exercises-todolist.pdf">Exercises (Todo list)</a>'
+    
 - number: 5
   topic: Methods
   additional_materials:
