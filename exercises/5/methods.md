@@ -58,7 +58,7 @@ topic: Methods
 
 5.  OK, this is a tricky one so don't be discouraged if you don't find a solution. Even seasoned programmers struggle with this concept sometimes!
 
-    Methods can also call themselves. This is called recursion and is a concept that can be very useful for some problems. Consider the following (non-recursive) method which calculates the factorial for a number `x`:
+    Methods can also call themselves. This is called _recursion_ and is a concept that can be very useful for some problems. Consider the following (non-recursive) method which calculates the factorial for a number `x`:
 
     ```ruby
     def factorial(x)

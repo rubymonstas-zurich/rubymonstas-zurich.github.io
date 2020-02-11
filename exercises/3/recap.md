@@ -9,7 +9,7 @@ topic: Recap
 Write a program that lets the user calculate his/her body mass index (BMI). 
 The user will be asked for their weight in kg and their height in m and the program calculates the BMI from that and outputs it.
 Here's what an interaction with your program could look like:
-    
+
 {% capture program_output %}What's your weight in kg?
 <b>92</b>
 What's your height in m?
