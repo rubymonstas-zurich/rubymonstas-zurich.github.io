@@ -60,6 +60,7 @@ The following exercises might be a bit dry, but the concept you'll be practising
         * `&&`
         * `||`
         * `!`
+        * parentheses: `()`
 
         For example: `!one || two`
 
