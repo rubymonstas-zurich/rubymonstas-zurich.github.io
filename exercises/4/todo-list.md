@@ -8,6 +8,8 @@ topic: Todo list
 
 We're building a Todo list program in the command line. We'll do it step by step. After each step you will have a working program.
 
+__Hint__: In programming, we use the verb *implement* a lot, e.g. *implement this feature*. It just means make it work. Write the code which will make it happen.
+
 <ol>
   <li>
     Say hi to the user and ask for a command to enter. If the user enters "quit" you should print "Goodbye!". Otherwise, the command is ignored and your program ends as usual.
