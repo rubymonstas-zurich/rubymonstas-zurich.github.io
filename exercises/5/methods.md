@@ -50,7 +50,7 @@ topic: Methods
 
     2. `mystery(4)`
 
-    Try to figure this out first without running the code. Just think about what happens, line after line! If you like, you can use the [Schreibtischtest](https://de.wikipedia.org/wiki/Schreibtischtest) strategy for this.
+    Try to figure this out first without running the code. Just think about what happens, line after line! If you like, you can use the [Schreibtischtest](https://de.wikipedia.org/wiki/Schreibtischtest) strategy for this. After looking for the answer manually, you can execute the code and see whether you are correct.
 
 4.  Write a method called `translate` that takes a word and returns the translation. If the translation cannot be found it should return "I'm sorry, I can't translate that."
     
@@ -74,5 +74,8 @@ topic: Methods
 
     First, try to understand step by step what this method does.
 
-    Here comes the challenge: Can you write a recursive method that calculates the factorial?
+    Here comes the challenge: Can you write a recursive method that calculates the factorial? This means that your `factorial` method will call itself!
 
+    As a hint, here's the mathematical definition of the recursive factorial:
+
+    ![Recursive factorial formula](factorial-recursive-formula.png)
