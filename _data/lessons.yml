@@ -49,6 +49,8 @@
 
 - number: 4
   topic: Control Structures
+  slides:
+    conditions: Conditions
   exercises:
     recap: Recap previous lessons
     number-guessing: Number guessing game
