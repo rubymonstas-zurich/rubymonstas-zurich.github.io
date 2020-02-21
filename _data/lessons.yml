@@ -60,6 +60,8 @@
 
 - number: 5
   topic: Methods
+  slides:
+    methods: Methods
   exercises:
     recap: Recap previous lessons
     methods: Methods
