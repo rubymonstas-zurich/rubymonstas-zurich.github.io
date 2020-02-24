@@ -49,15 +49,19 @@
 
 - number: 4
   topic: Control Structures
+  slides:
+    conditions: Conditions
   exercises:
     recap: Recap previous lessons
     number-guessing: Number guessing game
     todo-list: Todo list
   additional_materials:
     - '<a href="/materials/canonical/session04/session4-slides.pdf">Session 4 slides: Control structures</a>'
-    
+
 - number: 5
   topic: Methods
+  slides:
+    methods: Methods
   exercises:
     recap: Recap previous lessons
     tiny-games: Tiny games
@@ -71,7 +75,7 @@
   exercises:
     recap: Recap previous lessons
     boolean-operators: Boolean Operators
-    
+
   additional_materials:
     - '<a href="/materials/canonical/session06/session6-slides.pdf">Session 6 slides: Error messages, Boolean operators</a>'
     - '<a href="/materials/canonical/session06/session6-ruby-cheat-sheet.pdf">Ruby cheat sheet: Control structures, Methods, Truth tables</a>'
