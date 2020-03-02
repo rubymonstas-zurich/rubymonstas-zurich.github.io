@@ -65,6 +65,7 @@
   exercises:
     recap: Recap previous lessons
     tiny-games: Tiny games
+    methods: Methods
   additional_materials:
     - '<a href="/materials/canonical/session05/session5-slides.pdf">Session 5 slides: Methods</a>'
     - '<a href="/materials/canonical/session05/session5-ruby-cheat-sheet.pdf">Ruby cheat sheet: Data types, Arrays, Hashes</a>'
