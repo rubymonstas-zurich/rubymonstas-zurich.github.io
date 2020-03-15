@@ -51,6 +51,7 @@
   topic: Control Structures
   slides:
     conditions: Conditions
+    loops: Loops
   exercises:
     recap: Recap previous lessons
     number-guessing: Number guessing game
