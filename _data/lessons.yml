@@ -52,6 +52,7 @@
   slides:
     conditions: Conditions
     loops: Loops
+    loops-for-arrays: Loops for Arrays
   exercises:
     recap: Recap previous lessons
     number-guessing: Number guessing game
