@@ -105,6 +105,8 @@
     - '<a href="/materials/canonical/session10/session10-exercises.pdf">Exercises</a>'
 - number: 11
   topic: Classes and Objects
+  exercises:
+    dog: Let's create a Dog class
   additional_materials:
     - '<a href="/materials/canonical/session11/session11-slides.pdf">Session 11 slides: Classes and Objects</a>'
     - '<a href="https://github.com/rubymonstas-zurich/intro-to-testing/blob/master/intro_to_testing.rb">Code: Introduction to testing</a>'
