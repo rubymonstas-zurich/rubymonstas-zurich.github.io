@@ -36,10 +36,14 @@ topic: Methods
     ```ruby
     def mystery(number)
       changed = number * 5
-      if changed % 3 == 0
+      if changed.odd? 
         "Bam!"
-      else 
-        "Zonk!"
+      else
+        if changed > 20
+          "Boom!"
+        else
+          "Zonk!"
+        end
       end
     end
     ```
@@ -49,6 +53,8 @@ topic: Methods
     1. `mystery(3)`
 
     2. `mystery(4)`
+
+    3. `mystery(6)`
 
     Try to figure this out first without running the code. Just think about what happens, line after line! If you like, you can use the [Schreibtischtest](https://de.wikipedia.org/wiki/Schreibtischtest) strategy for this. After looking for the answer manually, you can execute the code and see whether you are correct.
 
