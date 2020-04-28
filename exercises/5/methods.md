@@ -62,7 +62,7 @@ topic: Methods
 
     __Hint__: Use a Hash to store your translations!
 
-5.  Try to guess what '%' does. Experiment in irb. You can start with the following expressions:
+5.  Try to guess what `%` does. Experiment in irb. You can start with the following expressions:
 
     1. `6 % 3`
 
