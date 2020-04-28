@@ -56,7 +56,7 @@ topic: Methods
 
     3. `mystery(6)`
 
-    Try to figure this out first without running the code. Just think about what happens, line after line! If you like, you can use the [Schreibtischtest](https://de.wikipedia.org/wiki/Schreibtischtest) strategy for this. After looking for the answer manually, you can execute the code and see whether you are correct. The goal of this exercise is to make your think how the code is executed line by line.
+    Try to figure this out first without running the code. Just think about what happens, line after line! If you like, you can use the [Schreibtischtest](https://de.wikipedia.org/wiki/Schreibtischtest) strategy for this. After looking for the answer manually, you can execute the code and see whether you are correct. The goal of this exercise is to make you think how the code is executed line by line.
 
 4.  Write a method called `translate` that takes a word and returns the translation. If the translation cannot be found it should return "I'm sorry, I can't translate that."
 
