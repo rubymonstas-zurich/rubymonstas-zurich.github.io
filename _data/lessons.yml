@@ -100,7 +100,6 @@
     blocks: Blocks
   additional_materials:
     - '<a href="/materials/canonical/session09/session9-slides.pdf">Session 9 slides: Blocks</a>'
-    - '<a href="/materials/canonical/session09/session9-exercises.pdf">Exercises</a>'
     - '<a href="/materials/canonical/session09/session9-ruby-cheat-sheet.pdf">Ruby cheat sheet: Blocks</a>'
 - number: 10
   topic: Symbols, Ranges
@@ -109,7 +108,6 @@
     ranges: Ranges
   additional_materials:
     - '<a href="/materials/canonical/session10/session10-slides.pdf">Session 10 slides: Symbols and ranges</a>'
-    - '<a href="/materials/canonical/session10/session10-exercises.pdf">Exercises</a>'
 - number: 11
   topic: Classes and Objects
   exercises:
