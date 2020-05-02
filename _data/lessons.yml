@@ -66,6 +66,8 @@
     recap: Recap previous lessons
     tiny-games: Tiny games
     methods: Methods
+
+  additional_materials:
     - '<a href="/materials/canonical/session05/session5-ruby-cheat-sheet.pdf">Ruby cheat sheet: Data types, Arrays, Hashes</a>'
     - '<a href="/materials/canonical/session05/flow-chart.png">Example flow chart</a>'
 
@@ -100,6 +102,8 @@
     - '<a href="/materials/canonical/session09/session9-ruby-cheat-sheet.pdf">Ruby cheat sheet: Blocks</a>'
 - number: 10
   topic: Symbols, Ranges
+  exercises:
+    symbols-ranges: Symbols and Ranges
   additional_materials:
     - '<a href="/materials/canonical/session10/session10-slides.pdf">Session 10 slides: Symbols and ranges</a>'
     - '<a href="/materials/canonical/session10/session10-exercises.pdf">Exercises</a>'
