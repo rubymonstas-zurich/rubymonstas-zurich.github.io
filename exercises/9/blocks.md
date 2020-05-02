@@ -11,26 +11,26 @@ topic: Blocks
 
 3. Here is an array with some names:
 
-  ```ruby
-  names = ["John", "Angus", "Jane", "Hannibal"]
-  ```
+    ```ruby
+    names = ["John", "Angus", "Jane", "Hannibal"]
+    ```
 
-  Write some code to get all names which start with the letter `J`. The result should be stored in a new array.
+    Write some code to get all names which start with the letter `J`. The result should be stored in a new array.
 
 4. We have the following method:
 
-  ```ruby
-  def mystery(numbers)
-    numbers.select do |number|
-      number % 3 == 0
+    ```ruby
+    def mystery(numbers)
+      numbers.select do |number|
+        number % 3 == 0
+      end
     end
-  end
-  ```
+    ```
 
-  What does the method `mystery` return if we call it with...
+    What does the method `mystery` return if we call it with...
 
-  ```ruby
-  mystery([1, 5, 9, 11, 18])
-  ```
+    ```ruby
+    mystery([1, 5, 9, 11, 18])
+    ```
 
 5. Write a method which takes an array of numbers as argument and returns the first number that can be divided by 5
