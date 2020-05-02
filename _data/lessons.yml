@@ -103,7 +103,8 @@
 - number: 10
   topic: Symbols, Ranges
   exercises:
-    symbols-ranges: Symbols and Ranges
+    symbols: Symbols
+    ranges: Ranges
   additional_materials:
     - '<a href="/materials/canonical/session10/session10-slides.pdf">Session 10 slides: Symbols and ranges</a>'
     - '<a href="/materials/canonical/session10/session10-exercises.pdf">Exercises</a>'
