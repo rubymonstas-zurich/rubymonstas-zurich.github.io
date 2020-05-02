@@ -57,8 +57,6 @@
     recap: Recap previous lessons
     number-guessing: Number guessing game
     todo-list: Todo list
-  additional_materials:
-    - '<a href="/materials/canonical/session04/session4-slides.pdf">Session 4 slides: Control structures</a>'
 
 - number: 5
   topic: Methods
@@ -68,8 +66,6 @@
     recap: Recap previous lessons
     tiny-games: Tiny games
     methods: Methods
-  additional_materials:
-    - '<a href="/materials/canonical/session05/session5-slides.pdf">Session 5 slides: Methods (old slides)</a>'
     - '<a href="/materials/canonical/session05/session5-ruby-cheat-sheet.pdf">Ruby cheat sheet: Data types, Arrays, Hashes</a>'
     - '<a href="/materials/canonical/session05/flow-chart.png">Example flow chart</a>'
 
