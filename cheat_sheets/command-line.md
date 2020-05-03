@@ -27,14 +27,14 @@ These are of the most important commands on the command line. You have seen all 
 
 Here are some example usages with a description what they mean:
 
-| Command           | Meaning                                                                                              |
-| ----------------- | ---------------------------------------------------------------------------------------------------- |
-| `ls`              | List what is inside the current working directory (files and directories).                           |
-| `ls my-directory` | List what is inside my-directory, which is a directory in the current working directory.             |
-| `ls ~`            | List what is inside the current user's home directory.                                               |
-| `cd my-directory` | Change the working directory to my-directory, which is a directory in the current working directory. |
-| `cd` <br> `cd ~`  | Change the working directory to the current user's home directory.                                   |
-| `cd ..`           | Change the working directory to the current working directory's parent directory.                    |
+| Command           | Meaning                                                                                                  |
+| ----------------- | -------------------------------------------------------------------------------------------------------- |
+| `ls`              | List what is inside the current working directory (files and directories).                               |
+| `ls my-directory` | List what is inside __my-directory__, which is a directory in the current working directory.             |
+| `ls ~`            | List what is inside the current user's __home directory__.                                               |
+| `cd my-directory` | Change the working directory to __my-directory__, which is a directory in the current working directory. |
+| `cd` <br> `cd ~`  | Change the working directory to the current user's __home directory__.                                   |
+| `cd ..`           | Change the working directory to the current working directory's __parent directory__.                    |
 
 
 ### Ruby-specific commands
@@ -46,4 +46,4 @@ These commands are only used for programming Ruby, not with other programming la
 | ruby    | *program file name* |                          | Runs code that was saved to a `.rb` file previously.                                                                |
 | irb     |                     | "interactive Ruby shell" | Starts IRB, which is a quick way to play around and try things in Ruby, without having to save your code to a file. |
 
-For example, if you want to run the Ruby code in your file `hello.rb`, run this in the command line: `ruby hello.rb`. Make sure that you're in the right directory first (see `ls` and `cd`)!
+For example, if you want to run the Ruby code in your file `hello.rb`, run this in the command line: `ruby hello.rb`. Make sure that you're in the directory which contains the file you want to run first (see `ls` and `cd`)!
