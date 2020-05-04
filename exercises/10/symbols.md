@@ -1,9 +1,7 @@
 ---
 layout: exercises
-topic: Symbols and Ranges
+topic: Symbols
 ---
-
-### Symbols
 
 We are going to make a dictionary for whatever two languages you know. The key is always a word or expression in the source language, whereas the value is a word or expression in the target language.
 

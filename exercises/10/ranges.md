@@ -1,9 +1,7 @@
 ---
 layout: exercises
-topic: Symbols and Ranges
+topic: Ranges
 ---
-
-### Ranges
 
 1. Create a new file in your directory
 
