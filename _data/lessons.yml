@@ -14,8 +14,6 @@
     numbers: Numbers
     strings: Strings
     methods: Methods
-  cheat_sheets:
-    command-line: Command line
   
 - number: 2
   topic: Variables, Arrays
@@ -31,7 +29,9 @@
     variables-puts-gets: Variables, puts and gets
     comparison-operators: Comparison Operators
     arrays: Arrays
-
+  cheat_sheets:
+    command-line: Command line
+  
 - number: 3
   topic: String Interpolation, Hashes
   slides:
