@@ -14,10 +14,7 @@
     numbers: Numbers
     strings: Strings
     methods: Methods
-
-  additional_materials:
-    - '<a href="/materials/canonical/session01/session1-command-line-cheat-sheet.pdf">Command line cheat sheet</a>'
-
+  
 - number: 2
   topic: Variables, Arrays
   description: "In this lesson we learn about the workflow to use while programming. And we take a look at some more basic Ruby topics: Variables, puts and gets, Comparison Operators and Arrays."
@@ -32,7 +29,9 @@
     variables-puts-gets: Variables, puts and gets
     comparison-operators: Comparison Operators
     arrays: Arrays
-
+  cheat_sheets:
+    command-line: Command line
+  
 - number: 3
   topic: String Interpolation, Hashes
   slides:
