@@ -6,7 +6,8 @@ topic: Arrays
 | Name           | Description                                                            | Syntax                                    | Examples                                                |
 | -------------- | ---------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------- |
 | Array literal  | Creates a new array                                                    | _[item1, item2, ...]_                     | `my_array = [1, 2, 3]`                                  |
-| Length         | Returns the length of the array (the number of items it contains)      | _array.length_                            | `my_array.length`                                       |
+| Array.new      | Creates a new empty array (equivalent to `[]`)                         | _Array.new_                               | `my_array = Array.new`                                  |
+| length         | Returns the length of the array (the number of items it contains)      | _array.length_                            | `my_array.length`                                       |
 | Index operator | Lets you access the item at a given position within an array           | _array[index]_                            | `my_array[1]`                                           |
 | delete_at      | Deletes the item at a given index and returns it                       | _array.delete_at(index)_                  | `my_array.delete_at(1)`                                 |
 | each           | Lets you iterate over all elements in an array                         | _array.each do \|item\|_ <br><br> _end_   | `my_array.each do |item|` <br> `puts item` <br> `end`   |
