@@ -14,7 +14,9 @@
     numbers: Numbers
     strings: Strings
     methods: Methods
-  
+  cheat_sheets:
+    integers-floats-strings: Integers, Floats, Strings
+
 - number: 2
   topic: Variables, Arrays
   description: "In this lesson we learn about the workflow to use while programming. And we take a look at some more basic Ruby topics: Variables, puts and gets, Comparison Operators and Arrays."
@@ -30,6 +32,7 @@
     comparison-operators: Comparison Operators
     arrays: Arrays
   cheat_sheets:
+    arrays: Arrays
     command-line: Command line
   
 - number: 3
@@ -43,6 +46,7 @@
     hashes: Hashes
   cheat_sheets:
     parentheses: Parentheses
+    hashes: Hashes
   additional_materials:
     - '<a href="/materials/canonical/session03/session3-interactive-recap.pdf">Interactive Recap</a>'
 
@@ -67,7 +71,6 @@
     methods: Methods
 
   additional_materials:
-    - '<a href="/materials/canonical/session05/session5-ruby-cheat-sheet.pdf">Ruby cheat sheet: Data types, Arrays, Hashes</a>'
     - '<a href="/materials/canonical/session05/flow-chart.png">Example flow chart</a>'
 
 - number: 6
