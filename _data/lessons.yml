@@ -97,11 +97,12 @@
   additional_materials:
     - '<a href="/materials/canonical/session08/session8-slides.pdf">Session 8 slides: IRC Bot recap</a>'
 - number: 9
-  topic: Blocks
+  topic: Enumerables
+  slides:
+    enumerables: Enumerables
   exercises:
     blocks: Blocks
   additional_materials:
-    - '<a href="/materials/canonical/session09/session9-slides.pdf">Session 9 slides: Blocks</a>'
     - '<a href="/materials/canonical/session09/session9-ruby-cheat-sheet.pdf">Ruby cheat sheet: Blocks</a>'
 - number: 10
   topic: Symbols, Ranges
