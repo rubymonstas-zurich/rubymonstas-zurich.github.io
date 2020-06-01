@@ -101,7 +101,7 @@
   slides:
     enumerables: Enumerables
   exercises:
-    blocks: Blocks
+    enumerables: Enumerables
   additional_materials:
     - '<a href="/materials/canonical/session09/session9-ruby-cheat-sheet.pdf">Ruby cheat sheet: Blocks</a>'
 - number: 10
