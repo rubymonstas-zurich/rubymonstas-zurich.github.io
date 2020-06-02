@@ -34,16 +34,18 @@
   cheat_sheets:
     arrays: Arrays
     command-line: Command line
-  
+
 - number: 3
   topic: String Interpolation, Hashes
   slides:
     string-interpolation: String Interpolation
     hashes: Hashes
+    symbols: Symbols
   exercises:
     recap: Recap previous lessons
     string-interpolation: String Interpolation
     hashes: Hashes
+    symbols: Symbols
   cheat_sheets:
     parentheses: Parentheses
     hashes: Hashes
@@ -100,17 +102,14 @@
   topic: Enumerables
   slides:
     enumerables: Enumerables
+    ranges: Ranges
   exercises:
     enumerables: Enumerables
+    ranges: Ranges
   additional_materials:
     - '<a href="/materials/canonical/session09/session9-ruby-cheat-sheet.pdf">Ruby cheat sheet: Blocks</a>'
 - number: 10
-  topic: Symbols, Ranges
-  exercises:
-    symbols: Symbols
-    ranges: Ranges
-  additional_materials:
-    - '<a href="/materials/canonical/session10/session10-slides.pdf">Session 10 slides: Symbols and ranges</a>'
+  topic: Pause ☕ (used to be "Symbols & Ranges", see Lesson 3 and Lesson 9)
 - number: 11
   topic: Classes and Objects
   exercises:
