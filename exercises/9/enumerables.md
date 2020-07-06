@@ -1,9 +1,9 @@
 ---
 layout: exercises
-topic: Blocks
+topic: Enumerables
 ---
 
-### Blocks
+### Enumerables
 
 1. Write a small program that asks for a number and it prints out "Hello!” to the user as many times as the number that was entered.
 

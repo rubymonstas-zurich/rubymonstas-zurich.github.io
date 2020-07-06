@@ -14,9 +14,8 @@
     numbers: Numbers
     strings: Strings
     methods: Methods
-
-  additional_materials:
-    - '<a href="/materials/canonical/session01/session1-command-line-cheat-sheet.pdf">Command line cheat sheet</a>'
+  cheat_sheets:
+    integers-floats-strings: Integers, Floats, Strings
 
 - number: 2
   topic: Variables, Arrays
@@ -32,18 +31,24 @@
     variables-puts-gets: Variables, puts and gets
     comparison-operators: Comparison Operators
     arrays: Arrays
+  cheat_sheets:
+    arrays: Arrays
+    command-line: Command line
 
 - number: 3
   topic: String Interpolation, Hashes
   slides:
     string-interpolation: String Interpolation
     hashes: Hashes
+    symbols: Symbols
   exercises:
     recap: Recap previous lessons
     string-interpolation: String Interpolation
     hashes: Hashes
+    symbols: Symbols
   cheat_sheets:
     parentheses: Parentheses
+    hashes: Hashes
   additional_materials:
     - '<a href="/materials/canonical/session03/session3-interactive-recap.pdf">Interactive Recap</a>'
 
@@ -68,7 +73,6 @@
     methods: Methods
 
   additional_materials:
-    - '<a href="/materials/canonical/session05/session5-ruby-cheat-sheet.pdf">Ruby cheat sheet: Data types, Arrays, Hashes</a>'
     - '<a href="/materials/canonical/session05/flow-chart.png">Example flow chart</a>'
 
 - number: 6
@@ -95,21 +99,17 @@
   additional_materials:
     - '<a href="/materials/canonical/session08/session8-slides.pdf">Session 8 slides: IRC Bot recap</a>'
 - number: 9
-  topic: Blocks
+  topic: Enumerables
+  slides:
+    enumerables: Enumerables
+    ranges: Ranges
   exercises:
-    blocks: Blocks
-  additional_materials:
-    - '<a href="/materials/canonical/session09/session9-slides.pdf">Session 9 slides: Blocks</a>'
-    - '<a href="/materials/canonical/session09/session9-exercises.pdf">Exercises</a>'
-    - '<a href="/materials/canonical/session09/session9-ruby-cheat-sheet.pdf">Ruby cheat sheet: Blocks</a>'
-- number: 10
-  topic: Symbols, Ranges
-  exercises:
-    symbols: Symbols
+    enumerables: Enumerables
     ranges: Ranges
   additional_materials:
-    - '<a href="/materials/canonical/session10/session10-slides.pdf">Session 10 slides: Symbols and ranges</a>'
-    - '<a href="/materials/canonical/session10/session10-exercises.pdf">Exercises</a>'
+    - '<a href="/materials/canonical/session09/session9-ruby-cheat-sheet.pdf">Ruby cheat sheet: Blocks</a>'
+- number: 10
+  topic: Pause ☕ (used to be "Symbols & Ranges", see Lesson 3 and Lesson 9)
 - number: 11
   topic: Classes and Objects
   exercises:
@@ -117,16 +117,17 @@
   additional_materials:
     - '<a href="/materials/canonical/session11/session11-slides.pdf">Session 11 slides: Classes and Objects</a>'
     - '<a href="https://github.com/rubymonstas-zurich/intro-to-testing/blob/master/intro_to_testing.rb">Code: Introduction to testing</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/trip-exercise/releases/">Exercise: Trip</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/bug-exercise/releases">Exercise: Bug</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/hollywood-exercise/releases">Exercise: Hollywood</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/bug-relationship-exercise/releases">Exercise: Bug Relationship</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/object-state/releases/latest">Exercise: Object State</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/trip-exercise/releases/latest">Exercise: Trip</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/bug-exercise/releases/latest">Exercise: Bug</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/hollywood-exercise/releases/latest">Exercise: Hollywood</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/bug-relationship-exercise/releases/latest">Exercise: Bug Relationship</a>'
 - number: 12
   topic: The Ruby Standard Library
   additional_materials:
     - '<a href="/materials/canonical/session12/session12-slides.pdf">Session 12 slides: The Ruby Standard Library</a>'
     - '<a href="/materials/canonical/session12/session12-exercises.pdf">Exercises</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/order-analysis-exercise/releases">Exercise source code: Order Analysis</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/order-analysis-exercise/releases/latest">Exercise source code: Order Analysis</a>'
     - '<a href="https://github.com/rubymonstas-zurich/students-csv/blob/master/Exercise.md">Additional exercise: Students CSV Exercise</a>'
     - '<a href="https://github.com/rubymonstas-zurich/students-csv/archive/master.zip">Students CSV Exercise source code</a>'
     - '<a href="/materials/canonical/session12/session12-interlude-encoding.pdf">Interlude: Binary, Data Representation, Encoding</a>'
