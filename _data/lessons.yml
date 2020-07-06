@@ -106,8 +106,8 @@
   exercises:
     enumerables: Enumerables
     ranges: Ranges
-  additional_materials:
-    - '<a href="/materials/canonical/session09/session9-ruby-cheat-sheet.pdf">Ruby cheat sheet: Blocks</a>'
+  cheat_sheets:
+    enumerables: Enumerables
 - number: 10
   topic: Pause ☕ (used to be "Symbols & Ranges", see Lesson 3 and Lesson 9)
 - number: 11
