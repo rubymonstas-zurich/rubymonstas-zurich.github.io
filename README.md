@@ -2,6 +2,14 @@
 
 The website of Ruby Monstas Zurich
 
+## Starting the server in development
+
+```
+bundle exec jekyll serve
+```
+
+To deploy changes to production, simply push to master (It's Github Pages).
+
 ## Add a member
 
 Add a yml object in `_data/members.yml`, example:
