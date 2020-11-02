@@ -18,7 +18,7 @@
 
 - number: 2
   topic: Setting up, Variables
-  description: "In this lesson we learn about the workflow to use while programming. And we take a look at some more basic Ruby topics: Variables, puts and gets, Comparison Operators and Arrays."
+  description: "In this lesson we learn about the workflow to use while programming. And we take a look at some more basic Ruby topics: Variables, puts and gets."
   slides:
     setting-up: Setting up
     programming-workflow: Programming Workflow
