@@ -5,7 +5,6 @@
     welcome: Welcome slides
     ruby-first-steps: 'Ruby: First steps'
     learning-to-program: Learning to program
-    setting-up: Setting up
     irb: IRB (Interactive Ruby)
     numbers: Numbers
     strings: Strings
@@ -18,24 +17,32 @@
     integers-floats-strings: Integers, Floats, Strings
 
 - number: 2
-  topic: Variables, Arrays
+  topic: Setting up, Variables
   description: "In this lesson we learn about the workflow to use while programming. And we take a look at some more basic Ruby topics: Variables, puts and gets, Comparison Operators and Arrays."
   slides:
+    setting-up: Setting up
     programming-workflow: Programming Workflow
     variables: Variables
     puts-gets: puts and gets
-    comparison-operators: Comparison Operators
-    arrays: Arrays
   exercises:
     recap-1: Recap lesson 1
     variables-puts-gets: Variables, puts and gets
+  cheat_sheets:
+    command-line: Command line
+
+- number: 3
+  topic: Arrays
+  slides:
+    comparison-operators: Comparison Operators
+    arrays: Arrays
+  exercises:
+    recap: Recap previous lessons
     comparison-operators: Comparison Operators
     arrays: Arrays
   cheat_sheets:
     arrays: Arrays
-    command-line: Command line
-
-- number: 3
+    
+- number: 4
   topic: String Interpolation, Hashes
   slides:
     string-interpolation: String Interpolation
@@ -52,7 +59,7 @@
   additional_materials:
     - '<a href="/materials/canonical/session03/session3-interactive-recap.pdf">Interactive Recap</a>'
 
-- number: 4
+- number: 5
   topic: Control Structures
   slides:
     conditions: Conditions
@@ -63,7 +70,7 @@
     number-guessing: Number guessing game
     todo-list: Todo list
 
-- number: 5
+- number: 6
   topic: Methods
   slides:
     writing-methods: Writing Methods
@@ -75,7 +82,7 @@
   additional_materials:
     - '<a href="/materials/canonical/session05/flow-chart.png">Example flow chart</a>'
 
-- number: 6
+- number: 7
   topic: Error messages, Boolean Operators
   slides:
     boolean-operators: Boolean Operators
@@ -89,15 +96,13 @@
     - '<a href="/exercises/6/error-messages.rb">Interactive error exercise</a>'
     - '<a href="/exercises/6/error-messages-solution.rb">Interactive error exercise - solution</a>'
 
-- number: 7
+- number: 8
   topic: Instance variables, IRC Bot
   additional_materials:
-    - '<a href="/materials/canonical/session07/session7-slides.pdf">Session 7 slides: Boolean operators recap, Instance variables, IRC Bot project</a>'
+    - '<a href="/materials/canonical/session07/session7-slides.pdf">Slides: Boolean operators recap, Instance variables, IRC Bot project</a>'
     - 'IRC bot exercise: Download <a href="https://github.com/nerdinand/ruby-irc-bot/archive/master.zip">master.zip</a>. This contains the basis for our IRC bot project. Extract it, then edit and run irc_bot.rb. <a href="https://github.com/nerdinand/ruby-irc-bot">IRC bot Github project</a>'
-- number: 8
-  topic: IRC Bot Recap
-  additional_materials:
-    - '<a href="/materials/canonical/session08/session8-slides.pdf">Session 8 slides: IRC Bot recap</a>'
+    - '<a href="/materials/canonical/session08/session8-slides.pdf">Slides: IRC Bot recap</a>'
+
 - number: 9
   topic: Enumerables
   slides:
