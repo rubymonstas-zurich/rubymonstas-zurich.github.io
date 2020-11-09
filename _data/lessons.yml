@@ -25,7 +25,7 @@
     variables: Variables
     puts-gets: puts and gets
   exercises:
-    recap-1: Recap lesson 1
+    recap-strings-integers: Recap lesson 1
     variables-puts-gets: Variables, puts and gets
   cheat_sheets:
     command-line: Command line
@@ -48,7 +48,7 @@
     hashes: Hashes
     symbols: Symbols
   exercises:
-    recap: Recap previous lessons
+    recap-bmi: Recap previous lessons
     string-interpolation: String Interpolation
     hashes: Hashes
     symbols: Symbols
@@ -65,7 +65,7 @@
     loops: Loops
     loops-for-arrays: Loops for Arrays
   exercises:
-    recap: Recap previous lessons
+    recap-gets-and-hashes: Recap previous lessons
     number-guessing: Number guessing game
     todo-list: Todo list
 
@@ -74,9 +74,9 @@
   slides:
     writing-methods: Writing Methods
   exercises:
-    recap: Recap previous lessons
+    recap-loop-array: Recap previous lessons
     tiny-games: Tiny games
-    methods: Methods
+    writing-methods: Methods
 
   additional_materials:
     - '<a href="/materials/canonical/session05/flow-chart.png">Example flow chart</a>'
@@ -87,7 +87,7 @@
     boolean-operators: Boolean Operators
     error-messages: Error Messages
   exercises:
-    recap: Recap previous lessons
+    recap-gets-to-integer: Recap previous lessons
     boolean-operators: Boolean Operators
 
   additional_materials:
