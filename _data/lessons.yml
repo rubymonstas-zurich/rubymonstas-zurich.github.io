@@ -36,12 +36,11 @@
     comparison-operators: Comparison Operators
     arrays: Arrays
   exercises:
-    recap: Recap previous lessons
     comparison-operators: Comparison Operators
     arrays: Arrays
   cheat_sheets:
     arrays: Arrays
-    
+
 - number: 4
   topic: String Interpolation, Hashes
   slides:

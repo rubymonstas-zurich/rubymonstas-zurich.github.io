@@ -3,6 +3,19 @@ layout: exercises
 topic: Recap
 ---
 
-1.  Write a program that asks for the user's name and outputs it like this: `Hello, Michelle!`. Hint: Use string interpolation!
+{% assign file_name = "bmi" %}
+{% include exercises/editor_hint.html file_name=file_name %}
 
-2.  We're going to collect mushrooms! Imagine your writing a program to keep track of who found how many. In IRB, execute the following: `mushroom_count = { "Hana" => 7, "Thomas" => 3, "Mario" => 4 }` Now, using that variable, output the names of the participants who collected mushrooms. Use the [Ruby documentation for Hash](https://ruby-doc.org/core/Hash.html) to find a suitable method for doing this.
+Write a program that lets the user calculate his/her body mass index (BMI). 
+The user will be asked for their weight in kg and their height in m and the program calculates the BMI from that and outputs it.
+Here's what an interaction with your program could look like:
+
+{% capture program_output %}What's your weight in kg?
+<b>92</b>
+What's your height in m?
+<b>1.93</b>
+Your BMI is 24.69864962817794{% endcapture %}
+
+{% include exercises/program_output.html program_output=program_output %}
+
+__Extra credit__: Round that ugly long floating point number to 2 digits after the comma!

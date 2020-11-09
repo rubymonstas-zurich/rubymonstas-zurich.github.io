@@ -3,18 +3,6 @@ layout: exercises
 topic: Recap
 ---
 
-{% assign file_name = "iteration" %}
-{% include exercises/editor_hint.html file_name=file_name %}
+1.  Write a program that asks for the user's name and outputs it like this: `Hello, Michelle!`. Hint: Use string interpolation!
 
-With the following code you would normally iterate over an array:
-
-```ruby
-places = ["Paris", "Nairobi", "Tokyo", "Portland"]
-places.each do |a_place|
-  puts "Place: #{a_place}"
-end
-```
-
-Find a way to achieve the same output without using `each`. Instead try using a `loop` construct. Your code should also work with more or fewer elements in the `places` array.
-
-__Hint__: You'll have to access individual array elements using their integer index (i.e. `places[index]`). 
+2.  We're going to collect mushrooms! Imagine your writing a program to keep track of who found how many. In IRB, execute the following: `mushroom_count = { "Hana" => 7, "Thomas" => 3, "Mario" => 4 }` Now, using that variable, output the names of the participants who collected mushrooms. Use the [Ruby documentation for Hash](https://ruby-doc.org/core/Hash.html) to find a suitable method for doing this.
