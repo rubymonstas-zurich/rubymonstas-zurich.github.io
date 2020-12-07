@@ -127,16 +127,17 @@
     - '<a href="https://github.com/rubymonstas-zurich/bug-exercise/releases/latest">Exercise: Bug</a>'
     - '<a href="https://github.com/rubymonstas-zurich/hollywood-exercise/releases/latest">Exercise: Hollywood</a>'
     - '<a href="https://github.com/rubymonstas-zurich/bug-relationship-exercise/releases/latest">Exercise: Bug Relationship</a>'
+
 - number: 12
   topic: The Ruby Standard Library
+  slides:
+    ruby-standard-library: Ruby Standard Library
+  exercises:
+    stdlib-exercises: Order Analysis and Students CSV
   additional_materials:
-    - '<a href="/materials/canonical/session12/session12-slides.pdf">Session 12 slides: The Ruby Standard Library</a>'
-    - '<a href="/materials/canonical/session12/session12-exercises.pdf">Exercises</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/order-analysis-exercise/releases/latest">Exercise source code: Order Analysis</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/students-csv/blob/master/Exercise.md">Additional exercise: Students CSV Exercise</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/students-csv/archive/master.zip">Students CSV Exercise source code</a>'
     - '<a href="/materials/canonical/session12/session12-interlude-encoding.pdf">Interlude: Binary, Data Representation, Encoding</a>'
     - '<a href="/materials/canonical/session12/session12-interlude-anti-pattern.pdf">Interlude: An anti-pattern</a>'
+
 - number: 13
   topic: Class Methods and Class Variables, Time
   additional_materials:
