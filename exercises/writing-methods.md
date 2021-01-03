@@ -19,16 +19,18 @@ topic: Methods
     kant = {
       name: "Immanuel Kant", year_born: 1724, year_died: 1804
     }
+    mozart = {
+      name: "Wolfgang Amadeus Mozart", year_born: 1756, year_died: 1791
+    }
     ```
 
-    Your method takes two of these person hashes as arguments and returns a string.  For the example above the string is either:
-
-    "Ludwig van Beethoven grew older than Immanuel Kant!"
-
-    or
+    Your method takes two of these person hashes as arguments and returns a string. For the example above you would get these answers:
 
     "Immanuel Kant grew older than Ludwig van Beethoven!"
-
+    "Ludwig van Beethoven grew older than Wolfgang Amadeus Mozart!"
+    
+    What's the answer for Kant and Mozart?
+    
     __Note__: What happens if two people have the same age? Handle that case too!
 
 3.  We have the following method:
