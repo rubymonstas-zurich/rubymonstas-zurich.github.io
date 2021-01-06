@@ -73,6 +73,7 @@
   topic: Methods
   slides:
     writing-methods: Writing Methods
+    scopes: Scopes
     code-formatting: Code formatting
   exercises:
     recap-loop-array: Recap previous lessons
