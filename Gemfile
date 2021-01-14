@@ -11,6 +11,10 @@ ruby RUBY_VERSION
 # Happy Jekylling!
 gem 'jekyll'
 
+# Ruby 3: We can remove this dependency after jekyll added 'webrick' to their dependencies
+# => https://github.com/jekyll/jekyll/issues/8523
+gem 'webrick'
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
