@@ -95,8 +95,8 @@
 
   additional_materials:
     - '<a href="/materials/canonical/session06/session6-ruby-cheat-sheet.pdf">Ruby cheat sheet: Control structures, Methods, Truth tables</a>'
-    - '<a href="/exercises/6/error-messages.rb">Interactive error exercise</a>'
-    - '<a href="/exercises/6/error-messages-solution.rb">Interactive error exercise - solution</a>'
+    - '<a href="/exercises/error-messages.rb">Interactive error exercise</a>'
+    - '<a href="/exercises/error-messages-solution.rb">Interactive error exercise - solution</a>'
 
 - number: 8
   topic: Instance variables, IRC Bot
