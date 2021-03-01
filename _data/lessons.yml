@@ -145,11 +145,16 @@
   additional_materials:
     - '<a href="/materials/canonical/session13/session13-slides.pdf">Session 13 slides: Class Methods and Class Variables &amp; Time</a>'
     - '<a href="https://github.com/rubymonstas-zurich/todolist-exercise">Exercises</a>'
+
 - number: 14
-  topic: "Excursion Standard Library: RSS"
-  additional_materials:
-    - '<a href="/materials/canonical/session14/session14-slides.pdf">Session 14 slides: Standard Library: RSS</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/20min-newsreader-exercise">Exercises</a>'
+  topic: "Standard Library: JSON"
+  slides:
+    json-intro: Introduction to JSON
+    json-with-ruby: JSON with Ruby
+  exercises:
+    getting-started-with-json: Getting started with JSON
+    travel-agency: Travel Agency
+
 - number: 15
   topic: HTML
   additional_materials:

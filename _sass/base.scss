@@ -35,3 +35,12 @@ hr {
     -moz-box-sizing: content-box;
     box-sizing: content-box;
 }
+
+blockquote {
+  font-size: 1.05em;
+  padding: 2px 20px;
+  margin: 0;
+  background-color: Gainsboro;
+  border: 0px gray solid;
+  border-left-width: 5px;
+}
