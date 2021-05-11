@@ -8,7 +8,7 @@ The website of Ruby Monstas Zurich
 bundle exec jekyll serve
 ```
 
-To deploy changes to production, simply push to master (It's Github Pages).
+To deploy changes to production, simply push to `main` (It's GitHub Pages).
 
 ## Add a member
 
@@ -33,7 +33,7 @@ Add a yml object in `_data/beginner_sessions.yml` or `_data/advanced_sessions.ym
   location: simplificator
 ```
 
-NOTE: 
+NOTE:
 - make sure to quote `'` the `description` in case it contains `:`, otherwise YML will handle it as key/value.
 - possible locations are: `simplificator`, `tamedia`, `localsearch`
 
