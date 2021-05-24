@@ -20,5 +20,3 @@ We are going to make a dictionary for whatever two languages you know. The key i
 6. Delete one key-­value pair from your hash
 
 7. Find the key for a certain value
-
-8. Find the keys for all values which start with certain characters, e.g. `A`, `Ba`, `Rub`
