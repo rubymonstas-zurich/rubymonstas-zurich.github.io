@@ -222,7 +222,7 @@
   additional_materials:
     - '<a href="/materials/canonical/session27/session27-slides.pdf">Session 27: 2015 Recap</a>'
     - '<a href="/materials/canonical/session27/session27-exercises.pdf">Exercises</a>'
-    - '<a href="/materials/canonical/session27/bev_wegzug_jahr_quartier_seit_2014.csv">CSV: Wegzüge nach Jahr und Quartier (seit 2014)</a>,<br /><a href="https://data.stadt-zuerich.ch/dataset/bev-bestand-jahr-quartier-nationalitaet">Open Data, City of Zurich</a>'
+    - '<a href="/materials/canonical/session27/bev_wegzug_jahr_quartier_seit_2014.csv">CSV: Wegzüge nach Jahr und Quartier (seit 2014)</a>,<br /><a href="https://data.stadt-zuerich.ch/dataset/bev_bestand_jahr_quartier_nationalitaet_od3361">Open Data, City of Zurich</a>'
 - number: 28
   topic: Introduction to databases
   additional_materials:
