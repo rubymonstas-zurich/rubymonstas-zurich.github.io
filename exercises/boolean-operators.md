@@ -40,37 +40,14 @@ The following exercises might be a bit dry, but the concept you'll be practising
     `1 == 1 && (!("testing" == 1 || 1 == 0))`||
     `3 != 4 && !("A" != "a" || "Ruby" == "Ruby")`||
     
-2.  The following is a so-called _truth table_. For more examples of truth tables, refer to this session's cheat sheet. 
 
-    We have two variables called `one` and `two`. These are the input of our truth table. The third column contains the output of our truth table. E.g. for the inputs `one = true` and `two = false`, the condition results in `true`.
-
-    Input `one` | Input `two` | Output
-    ----------- | ----------- | ------
-    `false` | `false` | `false`
-    `true` | `false` | `true`
-    `false` | `true` | `true`
-    `true` | `true` | `false`
-
-    1.  How would you describe the output of this truth table with words? When is it `true` and when is it `false`?
-
-    2.  Write a formula that satisfies this truth table. You are only allowed to use these elements:
-
-        * `one`
-        * `two`
-        * `&&`
-        * `||`
-        * `!`
-        * parentheses: `()`
-
-        For example: `!one || two`
-
-3.  Consider this boolean expression:
+2.  Consider this boolean expression:
     
     `false && x`
 
     You can tell what the result will be without knowing the value of `x`. Why?
 
-4.  Write methods for the boolean operators `||`, `&&` and `!`. Here are the method signatures, just fill in the bodies:
+3.  Write methods for the boolean operators `||`, `&&` and `!`. Here are the method signatures, just fill in the bodies:
 
     ```ruby
     def my_not(a)
@@ -91,3 +68,29 @@ The following exercises might be a bit dry, but the concept you'll be practising
     `puts my_not(my_and(my_or(true, false), my_or(false, true)))`
 
     Your program should output `false` as a result.
+
+4.  The following is a so-called _truth table_. For more examples of truth tables, refer to this session's cheat sheet.
+
+    We have two variables called `one` and `two`. These are the input of our truth table. The third column contains the output of our truth table. E.g. for the inputs `one = true` and `two = false`, the expression results in `true`.
+
+    Input `one` | Input `two` | Output
+    ----------- | ----------- | ------
+    `false` | `false` | `false`
+    `true` | `false` | `true`
+    `false` | `true` | `true`
+    `true` | `true` | `false`
+
+    1.  How would you describe the output of this truth table with words? When is it `true` and when is it `false`?
+
+    2.  (BONUS) Find a formula that satisfies **all 4 rules and outputs** from the table above. You are only allowed to use these elements:
+
+        * `one`
+        * `two`
+        * `&&`
+        * `||`
+        * `!`
+        * parentheses: `()`
+
+        For example: `!one || two`
+
+        Hint: **All** listed elements are required to solve this puzzle!
