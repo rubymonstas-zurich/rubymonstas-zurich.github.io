@@ -71,7 +71,7 @@ The following exercises might be a bit dry, but the concept you'll be practising
 
 4.  The following is a so-called _truth table_. For more examples of truth tables, refer to this session's cheat sheet.
 
-    We have two variables called `one` and `two`. These are the input of our truth table. The third column contains the output of our truth table. E.g. for the inputs `one = true` and `two = false`, the condition results in `true`.
+    We have two variables called `one` and `two`. These are the input of our truth table. The third column contains the output of our truth table. E.g. for the inputs `one = true` and `two = false`, the expression results in `true`.
 
     Input `one` | Input `two` | Output
     ----------- | ----------- | ------
@@ -94,4 +94,3 @@ The following exercises might be a bit dry, but the concept you'll be practising
         For example: `!one || two`
 
         Hint: **All** listed elements are required to solve this puzzle!
-
