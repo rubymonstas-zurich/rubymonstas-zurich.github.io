@@ -24,17 +24,21 @@
       marginwidth="0"
       style="width: 100%; height: 100%;"
     ></div>
-    <script src="https://meet.coredump.ch/external_api.js"></script>
+    <script src="https://open.meet.switch.ch/external_api.js"></script>
     <script type="text/javascript">
       const room = document.location.search.substring(1) || "rubymonstas";
 
-      const domain = "meet.coredump.ch";
+      const domain = "open.meet.switch.ch";
       const options = {
         roomName: room,
         parentNode: document.querySelector("#jitsi"),
         interfaceConfigOverwrite: {
+          SHOW_BRAND_WATERMARK: false,
           SHOW_JITSI_WATERMARK: false,
+          DEFAULT_LOGO_URL: "https://rubymonstas.ch/assets/full-logo.png",
           BRAND_WATERMARK_LINK: "https://rubymonstas.ch/assets/full-logo.png",
+          JITSI_WATERMARK_LINK: "https://rubymonstas.ch",
+          SHOW_POWERED_BY: false,
         },
       };
 
