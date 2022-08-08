@@ -157,8 +157,9 @@
 
 - number: 15
   topic: HTML
+  slides:
+    html: Introduction to HTML
   additional_materials:
-    - '<a href="/materials/canonical/session15/session15-slides.pdf">Session 15 slides: HTML</a>'
     - '<a href="/materials/canonical/session15/session15-exercises.pdf">Exercises</a>'
     - '<a href="https://github.com/rubymonstas-zurich/todolist-exporter">Code for exercises</a>'
 - number: 16
