@@ -8,6 +8,13 @@ topic: Methods
 
 1.  Write a method `greet` that takes a name of a person as an argument and outputs "Hello" and then the name, followed by an exclamation mark.
 
+    Example:
+
+    ```ruby
+    greet("Andrea") # => "Hello Andrea!"
+    greet("Zoé")    # => "Hello Zoé!"
+    ```
+
 2.  Write a method `juicer` that takes the name of a fruit (or vegetable) as an argument. The argument should be interpolated into a String that looks like this pattern: "[something] juice". Make sure that the method itself only returns the string, and the printing (`puts`) happens "outside" the method.
 
     Example:
