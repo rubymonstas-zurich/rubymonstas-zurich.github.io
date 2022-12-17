@@ -71,9 +71,22 @@ blockquote {
     font-weight: bold;
     font-style: normal;
   }
+
+  .portraits {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 3rem;
+    text-align: center;
+
+    img {
+      border-radius: 100%;
+      border: 4px #636363 solid;
+    }
+  }
 }
 
-.button, .button:visited {
+.button,
+.button:visited {
   background-color: rgb(217, 16, 10);
   margin: 0 auto;
   color: white;
