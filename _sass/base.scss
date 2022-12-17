@@ -8,6 +8,7 @@ body {
     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 20px;
   line-height: 1.5em;
+  color: #636363;
 }
 
 a,
@@ -46,4 +47,11 @@ blockquote {
   background-color: Gainsboro;
   border: 0px gray solid;
   border-left-width: 5px;
+}
+
+.highlight {
+  color: black;
+  font-size: 1.2rem;
+  letter-spacing: 0.025rem;
+  font-weight: bold;
 }
