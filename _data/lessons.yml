@@ -63,7 +63,7 @@
 
 - number: 5
   topic: Control Structures
-  description: "Here's where it gets really interesting: Control Structures allow us to chenge the order in which things are done in our program."
+  description: "Here's where it gets really interesting: Control Structures allow us to change the order in which things are done in our program."
   slides:
     conditions: Conditions
     loops: Loops
