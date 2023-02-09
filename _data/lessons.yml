@@ -32,6 +32,7 @@
 
 - number: 3
   topic: Arrays
+  description: "In this lesson we learn about our first collection type, Arrays, which are really just lists of things."
   slides:
     comparison-operators: Comparison Operators
     arrays: Arrays
@@ -44,6 +45,7 @@
 
 - number: 4
   topic: String Interpolation, Hashes
+  description: "In this lesson we learn about a different collection type: Hashes."
   slides:
     string-interpolation: String Interpolation
     hashes: Hashes
@@ -61,6 +63,7 @@
 
 - number: 5
   topic: Control Structures
+  description: "Here's where it gets really interesting: Control Structures allow us to chenge the order in which things are done in our program."
   slides:
     conditions: Conditions
     loops: Loops
@@ -95,8 +98,8 @@
 
   additional_materials:
     - '<a href="/materials/canonical/session06/session6-ruby-cheat-sheet.pdf">Ruby cheat sheet: Control structures, Methods, Truth tables</a>'
-    - '<a href="/exercises/error-messages.rb">Interactive error exercise</a>'
-    - '<a href="/exercises/error-messages-solution.rb">Interactive error exercise - solution</a>'
+    - '<a href="/exercises/error-messages/error-messages.rb">Interactive error exercise</a>'
+    - '<a href="/exercises/error-messages/error-messages-solution.rb">Interactive error exercise - solution</a>'
 
 - number: 8
   topic: Instance variables, IRC Bot
@@ -180,9 +183,10 @@
     - '<a href="/materials/canonical/session18/session18-exercises.pdf">Exercises</a>'
 - number: 19
   topic: Networking and HTTP
+  exercises:
+    sinatra: Sinatra
   additional_materials:
     - '<a href="/materials/canonical/session19/session19-slides.pdf">Session 19 slides: Networking &amp; HTTP</a>'
-    - '<a href="/materials/canonical/session19/session19-exercises.pdf">Exercises</a>'
 - number: 20
   topic: HTML Forms and HTTP POST
   additional_materials:
