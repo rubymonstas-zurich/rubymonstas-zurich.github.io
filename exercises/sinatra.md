@@ -66,7 +66,7 @@ end
     ![Screen shot of a browser window of the Sinatra application showing a list of curriculum entries](curriculum-2.png)
 
 8. Now we are going to create a sub-page for each one of these lessons, where we will show the `description` from the CSV. First we will make the sub-pages work, then we will create links to get to them.
-    Figure out how to make the following possible: If you enter the URL `http://localhost:4567/curriculum/1`, we want to see the information for lesson 1, like in the following screenshot. This should also work for all the other lesson numbers, for example `http://localhost:4567/curriculum/2`, and so on.
+    Figure out how to make the following possible: If you enter the URL `http://localhost:4567/curriculum/2`, we want to see the information for lesson 2, like in the following screenshot. This should also work for all the other lesson numbers, for example `http://localhost:4567/curriculum/3`, and so on.
 
     ![Screen shot of a browser window of the Sinatra application with the curriculum detail page, showing a title and the description of the lesson](curriculum-show.png)
 
