@@ -10,7 +10,7 @@ information for solving the following tasks:
 1. Create a new directory for this exercise (for example, use the name "sinatra-exercise"). Create a Gemfile. Add these lines to the Gemfile:
     ```ruby
 source 'https://rubygems.org'
-gem 'sinatra', '~> 3.0', '>= 3.0.5'
+gem 'sinatra'
     ```
     Then run `bundle install` in the directory to install sinatra.
 
