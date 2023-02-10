@@ -38,4 +38,15 @@
   img {
     max-width: 100%;
   }
+
+  .language-plaintext {
+    color: #fd4040;
+  }
+
+  kbd {
+    background-color: #3d3d3d;
+    color: white;
+    border-radius: 5px;
+    padding: 3px 10px;
+  }
 }

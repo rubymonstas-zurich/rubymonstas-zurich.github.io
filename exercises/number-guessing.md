@@ -9,7 +9,7 @@ topic: Number guessing game
 Let's build a number guessing game. Here's how it works:
 
 When our program starts we think of a random number, like this: 
-```
+```ruby
 secret_number = rand(100)
 ```
 With `rand(100)`, Ruby picks a random number between 0 and 100 for us.
