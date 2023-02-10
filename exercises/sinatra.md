@@ -7,7 +7,7 @@ In this exercise you will setup an web application server using Sinatra. In the 
 respond to different requests. Please use [Getting Started](http://www.sinatrarb.com/intro.html) as an additonal source of
 information for solving the following tasks:
 
-1. Create a new directory for this exercise (for example, use the name "sinatra-exercise"). Create a Gemfile. Add these lines to the Gemfile:
+1. Create a new directory for this exercise (for example, use the name "sinatra-exercise"). Create a `Gemfile`. Add these lines to the `Gemfile`:
     ```ruby
 source 'https://rubygems.org'
 gem 'sinatra'
