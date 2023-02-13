@@ -1,5 +1,5 @@
 .col-mascotte {
-  width: 44%;
+  width: 33%;
   min-height: 100%;
   position: fixed;
   background-image: url(/assets/full-logo.png);
@@ -8,7 +8,7 @@
 }
 
 .col-content {
-  width: 56%;
+  width: 66%;
   min-height: 100%;
   float: right;
   background: #f8f8f8;
@@ -26,7 +26,7 @@
 
 .content {
   padding: 34px;
-  max-width: 550px;
+  max-width: 800px;
   margin: 16px auto;
   &.wide {
     max-width: inherit;
