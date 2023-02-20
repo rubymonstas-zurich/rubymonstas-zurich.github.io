@@ -74,7 +74,7 @@ Good bye!
 
 {% include exercises/program_output.html program_output=program_output %}
 
-Because this game involves a big list of words (taken from the [Basic English](https://en.wikipedia.org/wiki/Basic_English) vocabulary), you get a file to start with. You can download it here: [typing_game.rb](typing_game.rb). Download and save this file and start implementing your game in this same file.
+Because this game involves a big list of words (taken from the [Basic English](https://en.wikipedia.org/wiki/Basic_English) vocabulary), you get a file to start with. You can download it here: [typing_game.rb](/exercises/tiny-games/typing_game.rb). Download and save this file and start implementing your game in this same file.
 
 1.  When the user launches the game, she is being greeted.
 
