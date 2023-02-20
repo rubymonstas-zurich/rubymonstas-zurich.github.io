@@ -105,7 +105,7 @@
   topic: Instance variables, IRC Bot
   additional_materials:
     - '<a href="/materials/canonical/session07/session7-slides.pdf">Slides: Boolean operators recap, Instance variables, IRC Bot project</a>'
-    - 'IRC bot exercise: Download <a href="https://github.com/nerdinand/ruby-irc-bot/archive/master.zip">master.zip</a>. This contains the basis for our IRC bot project. Extract it, then edit and run irc_bot.rb. <a href="https://github.com/nerdinand/ruby-irc-bot">IRC bot Github project</a>'
+    - 'IRC bot exercise: Download <a href="https://github.com/rubymonstas-zurich/ruby-irc-bot/archive/main.zip">main.zip</a>. This contains the basis for our IRC bot project. Extract it, then edit and run irc_bot.rb. <a href="https://github.com/nerdinand/ruby-irc-bot">IRC bot Github project</a>'
     - '<a href="/materials/canonical/session08/session8-slides.pdf">Slides: IRC Bot recap</a>'
 
 - number: 9
@@ -126,7 +126,7 @@
     dog: Let's create a Dog class
   additional_materials:
     - '<a href="/materials/canonical/session11/session11-slides.pdf">Session 11 slides: Classes and Objects</a>'
-    - '<a href="https://github.com/rubymonstas-zurich/intro-to-testing/blob/master/intro_to_testing.rb">Code: Introduction to testing</a>'
+    - '<a href="https://github.com/rubymonstas-zurich/intro-to-testing/blob/main/intro_to_testing.rb">Code: Introduction to testing</a>'
     - '<a href="https://github.com/rubymonstas-zurich/object-state/releases/latest">Exercise: Object State</a>'
     - '<a href="https://github.com/rubymonstas-zurich/trip-exercise/releases/latest">Exercise: Trip</a>'
     - '<a href="https://github.com/rubymonstas-zurich/bug-exercise/releases/latest">Exercise: Bug</a>'
