@@ -167,6 +167,8 @@
     - '<a href="https://github.com/rubymonstas-zurich/todolist-exporter">Code for exercises</a>'
 - number: 16
   topic: ERB and CSS
+  slides:
+    erb: Embedded Ruby - ERB
   additional_materials:
     - '<a href="/materials/canonical/session16/session16-slides.pdf">Session 16 slides: ERB &amp; CSS</a>'
     - '<a href="/materials/canonical/session16/session16-exercises.pdf">Exercises</a>'
