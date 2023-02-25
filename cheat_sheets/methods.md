@@ -41,4 +41,5 @@ end
 # area of a circle with radius 1 and we store the result in the 
 # variable `unit_circle_area`
 unit_circle_area = circle_area(1.0)
+puts unit_circle_area # outputs "3.1415927"
 ```
