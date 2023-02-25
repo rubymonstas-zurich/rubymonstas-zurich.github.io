@@ -21,3 +21,15 @@ h3 {
   margin-top: 4rem;
   letter-spacing: 0.05rem;
 }
+
+figure.highlight {
+  margin: 5px;
+  
+  pre {
+    margin: 5px;
+  }
+}
+
+span.pre {
+  font-family: monospace;
+}

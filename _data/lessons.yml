@@ -72,6 +72,8 @@
     recap-gets-and-hashes: Recap previous lessons
     number-guessing: Number guessing game
     todo-list: Todo list
+  cheat_sheets:
+    control-structures: Control Structures
 
 - number: 6
   topic: Methods
@@ -83,6 +85,8 @@
     recap-loop-array: Recap previous lessons
     tiny-games: Tiny games
     writing-methods: Methods
+  cheat_sheets:
+    methods: Methods
 
   additional_materials:
     - '<a href="/materials/canonical/session05/flow-chart.png">Example flow chart</a>'
@@ -95,9 +99,10 @@
   exercises:
     recap-gets-to-integer: Recap previous lessons
     boolean-operators: Boolean Operators
+  cheat_sheets:
+    truth-table: Truth Table
 
   additional_materials:
-    - '<a href="/materials/canonical/session06/session6-ruby-cheat-sheet.pdf">Ruby cheat sheet: Control structures, Methods, Truth tables</a>'
     - '<a href="/exercises/error-messages/error-messages.rb">Interactive error exercise</a>'
     - '<a href="/exercises/error-messages/error-messages-solution.rb">Interactive error exercise - solution</a>'
 
