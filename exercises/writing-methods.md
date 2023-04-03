@@ -110,4 +110,4 @@ topic: Methods
 
     As a hint, here's the mathematical definition of the recursive factorial:
 
-    ![Recursive factorial formula](factorial-recursive-formula.png)
+    ![Recursive factorial formula](/exercises/writing-methods/factorial-recursive-formula.png)
