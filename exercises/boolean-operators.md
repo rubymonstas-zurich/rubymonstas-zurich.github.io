@@ -94,3 +94,35 @@ The following exercises might be a bit dry, but the concept you'll be practising
         For example: `!one || two`
 
         Hint: **All** listed elements are required to solve this puzzle!
+
+        You can use the following snippet of code to test your formula:
+        ```ruby
+        boolean_inputs = [
+          [false, false],
+          [true, false],
+          [false, true],
+          [true, true]
+        ]
+        
+        expected_outputs = [
+          false,
+          true,
+          true,
+          false
+        ]
+        
+        def mystery_formula(one, two)
+          # TODO: replace the following line with your formula!
+          one
+        end
+        
+        boolean_inputs.zip(expected_outputs).each do |(one, two), expected_output|
+          print "We expected mystery_formula(#{one}, #{two}) to return #{expected_output}, "
+          actual_output = mystery_formula(one, two)
+          if actual_output == expected_output
+            puts 'and it dit! 🎉'
+          else
+            puts "but it returned #{actual_output}. 😕"
+          end
+        end
+        ```
