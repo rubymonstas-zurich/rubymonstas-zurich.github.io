@@ -6,6 +6,8 @@ topic: Recap
 {% assign file_name = "iteration" %}
 {% include exercises/editor_hint.html file_name=file_name %}
 
+This is a repetition exercise for the previous lesson which was about loops. You don't have to use any methods in this one (no `def` ;-)).
+
 With the following code you would normally iterate over an array:
 
 ```ruby
