@@ -123,16 +123,20 @@
     ranges: Ranges
   cheat_sheets:
     enumerables: Enumerables
+
 - number: 10
   topic: Pause ☕ (used to be "Symbols & Ranges", see Lesson 3 and Lesson 9)
+
 - number: 11
   topic: Classes and Objects
+  slides:
+    oo-setters: Setters
   exercises:
     dog: Let's create a Dog class
   additional_materials:
     - '<a href="/materials/canonical/session11/session11-slides.pdf">Session 11 slides: Classes and Objects</a>'
     - '<a href="https://github.com/rubymonstas-zurich/intro-to-testing/blob/main/intro_to_testing.rb">Code: Introduction to testing</a>'
-    - '<a href="https://rubymonstas.ch/slides.rubymonstas.ch/slides/oo-setters/">Slides: Setters</a>'
+    - "=> now check out the Setters slides"
     - '<a href="https://github.com/rubymonstas-zurich/object-state/releases/latest">Exercise: Object State</a>'
     - '<a href="https://github.com/rubymonstas-zurich/trip-exercise/releases/latest">Exercise: Trip</a>'
     - '<a href="https://github.com/rubymonstas-zurich/bug-exercise/releases/latest">Exercise: Bug</a>'
