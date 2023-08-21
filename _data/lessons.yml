@@ -3,7 +3,7 @@
   description: "This lesson is all about explaining what Ruby Monstas is and getting you ready to learn to program! We'll also look into our first basic Ruby topics: IRB, Numbers, Strings and Methods!"
   slides:
     welcome: Welcome slides
-    ruby-first-steps: 'Ruby: First steps'
+    ruby-first-steps: "Ruby: First steps"
     learning-to-program: Learning to program
     irb: IRB (Interactive Ruby)
     numbers: Numbers
@@ -132,6 +132,7 @@
   additional_materials:
     - '<a href="/materials/canonical/session11/session11-slides.pdf">Session 11 slides: Classes and Objects</a>'
     - '<a href="https://github.com/rubymonstas-zurich/intro-to-testing/blob/main/intro_to_testing.rb">Code: Introduction to testing</a>'
+    - '<a href="https://rubymonstas.ch/slides.rubymonstas.ch/slides/oo-setters/">Slides: Setters</a>'
     - '<a href="https://github.com/rubymonstas-zurich/object-state/releases/latest">Exercise: Object State</a>'
     - '<a href="https://github.com/rubymonstas-zurich/trip-exercise/releases/latest">Exercise: Trip</a>'
     - '<a href="https://github.com/rubymonstas-zurich/bug-exercise/releases/latest">Exercise: Bug</a>'
@@ -179,7 +180,7 @@
     - '<a href="/materials/canonical/session16/session16-exercises.pdf">Exercises</a>'
     - '<a href="https://github.com/rubymonstas-zurich/todolist-exporter/tree/feature/erb-exporter">Code for exercises</a>'
 - number: 17
-  topic: 'Interlude: Encryption'
+  topic: "Interlude: Encryption"
   additional_materials:
     - '<a href="/materials/canonical/session17/session17-slides.pdf">Session 17 slides: Interlude: Encryption</a>'
     - '<a href="/materials/canonical/session17/session17-exercises.pdf">Exercises</a>'
