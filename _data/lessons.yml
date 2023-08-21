@@ -130,13 +130,13 @@
 - number: 11
   topic: Classes and Objects
   slides:
-    oo-setters: Setters
+    attribute-writers: Attribute Writers
   exercises:
     dog: Let's create a Dog class
   additional_materials:
     - '<a href="/materials/canonical/session11/session11-slides.pdf">Session 11 slides: Classes and Objects</a>'
     - '<a href="https://github.com/rubymonstas-zurich/intro-to-testing/blob/main/intro_to_testing.rb">Code: Introduction to testing</a>'
-    - "=> now check out the Setters slides"
+    - "=> now check out the Attribute Writers slides"
     - '<a href="https://github.com/rubymonstas-zurich/object-state/releases/latest">Exercise: Object State</a>'
     - '<a href="https://github.com/rubymonstas-zurich/trip-exercise/releases/latest">Exercise: Trip</a>'
     - '<a href="https://github.com/rubymonstas-zurich/bug-exercise/releases/latest">Exercise: Bug</a>'
