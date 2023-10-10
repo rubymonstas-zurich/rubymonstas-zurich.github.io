@@ -110,7 +110,7 @@
   topic: Instance variables, IRC Bot
   additional_materials:
     - '<a href="/materials/canonical/session07/session7-slides.pdf">Slides: Boolean operators recap, Instance variables, IRC Bot project</a>'
-    - 'IRC bot exercise: Download <a href="https://github.com/rubymonstas-zurich/ruby-irc-bot/archive/main.zip">main.zip</a>. This contains the basis for our IRC bot project. Extract it, then edit and run irc_bot.rb. <a href="https://github.com/nerdinand/ruby-irc-bot">IRC bot Github project</a>'
+    - 'IRC bot exercise: Download <a href="https://github.com/rubymonstas-zurich/ruby-irc-bot/archive/main.zip">main.zip</a>. This contains the basis for our IRC bot project. Extract it, then edit and run irc_bot.rb. <a href="https://github.com/rubymonstas-zurich/ruby-irc-bot">IRC bot Github project</a>'
     - '<a href="/materials/canonical/session08/session8-slides.pdf">Slides: IRC Bot recap</a>'
 
 - number: 9
