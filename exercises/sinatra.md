@@ -44,7 +44,6 @@ Then run `bundle install` in the directory to install sinatra.
 4. Let's add another route to our application:
 
    ```diff
-   # app.rb
    require 'sinatra'
 
    get '/' do
