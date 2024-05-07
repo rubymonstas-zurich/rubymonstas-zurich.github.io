@@ -49,7 +49,7 @@ Then run `bundle install` in the directory to install sinatra.
    get '/' do
      'Hello world!'
    end
-
+   +
    + get '/curriculum' do
    +   'This is our curriculum'
    + end
