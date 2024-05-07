@@ -50,9 +50,9 @@ Then run `bundle install` in the directory to install sinatra.
      'Hello world!'
    end
 
-   +get '/curriculum' do
-   +  'This is our curriculum'
-   +end
+   + get '/curriculum' do
+   +   'This is our curriculum'
+   + end
    ```
 
    You can visit [http://localhost:4567/curriculum](http://localhost:4567/curriculum) to see the result. If you get an error message, then maybe you forgot to restart the app?
