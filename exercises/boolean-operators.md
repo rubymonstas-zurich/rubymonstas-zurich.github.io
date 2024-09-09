@@ -49,7 +49,7 @@ The following exercises might be a bit dry, but the concept you'll be practising
 
 3.  Imagine you are developing an application that controls a cat door. There are 3 cats that you need to accommodate, Alpha, Bravo and Charlie.
 
-    a) Alpha is hurt and therefore shouldn't leave the house at the moment. Complete the following code to account for this:
+    a) Alpha is hurt and therefore shouldn't leave the house at the moment. Complete the following code so that Alpha can't leave the house:
 
     ```ruby
     def can_alpha_open_door?
@@ -65,7 +65,7 @@ The following exercises might be a bit dry, but the concept you'll be practising
     end
     ```
 
-    c) Charlie is a bit more complicated. Charlie should only be allowed out if both Alpha is inside (since they don't get along), and if Bravo is already inside (because they like to chase each other). Complete the following code to reflect these rules:
+    c) Charlie is a bit more complicated. Charlie should only be allowed out if both Alpha is inside (since they don't get along), and if Bravo is already inside (because they like to chase each other). Complete the following code to let Charlie out just if the two other cats are already inside:
 
     ```ruby
     def can_charlie_open_door?(is_alpha_inside, is_bravo_inside)
