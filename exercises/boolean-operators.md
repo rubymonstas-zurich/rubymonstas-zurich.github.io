@@ -47,27 +47,39 @@ The following exercises might be a bit dry, but the concept you'll be practising
 
     You can tell what the result will be without knowing the value of `x`. Why?
 
-3.  Write methods for the boolean operators `||`, `&&` and `!`. Here are the method signatures, just fill in the bodies:
+3.  Imagine you are developing an application that controls a cat door. There are 3 cats that you need to accommodate, Alpha, Bravo and Charlie.
+
+    a) Alpha is hurt and therefore shouldn't leave the house at the moment. Complete the following code to account for this:
 
     ```ruby
-    def my_not(a)
-      # your code goes here
-    end
-
-    def my_and(a, b)
-      # your code goes here
-    end
-
-    def my_or(a, b)
+    def can_alpha_open_door?
       # your code goes here
     end
     ```
 
-    You can test your implementation by running
+    b) Bravo likes to run away and sometimes does not come back for days if he is out between 20:00 and 06:00. Therefore, we want to lock the door to him if it's this late. Otherwise he can leave the house.
 
-    `puts my_not(my_and(my_or(true, false), my_or(false, true)))`
+    ```ruby
+    def can_bravo_open_door?(hour_of_day)
+      # your code goes here
+    end
+    ```
 
-    Your program should output `false` as a result.
+    c) Charlie is a bit more complicated. Charlie should only be allowed out if both Alpha is inside (since they don't get along), and if Bravo is already inside (because they like to chase each other). Complete the following code to reflect these rules:
+
+    ```
+    def can_charlie_open_door?(is_alpha_inside, is_bravo_inside)
+      # your code goes here
+    end
+    ```
+
+    d) Bonus: Safety Mode. In some cases, we need to lock the door for all cats when the outside temperature is too low (below 5°C). Complete the code for checking if the door should be locked for all cats.
+
+    ```
+    def is_door_locked_for_all?(temperature)
+      # your code goes here
+    end
+    ```
 
 4.  The following is a so-called _truth table_. For more examples of truth tables, refer to this session's cheat sheet.
 
