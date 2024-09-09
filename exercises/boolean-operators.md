@@ -67,15 +67,23 @@ The following exercises might be a bit dry, but the concept you'll be practising
 
     c) Charlie is a bit more complicated. Charlie should only be allowed out if both Alpha is inside (since they don't get along), and if Bravo is already inside (because they like to chase each other). Complete the following code to reflect these rules:
 
-    ```
+    ```ruby
     def can_charlie_open_door?(is_alpha_inside, is_bravo_inside)
       # your code goes here
     end
     ```
 
-    d) Bonus: Safety Mode. In some cases, we need to lock the door for all cats when the outside temperature is too low (below 5°C). Complete the code for checking if the door should be locked for all cats.
-
+    d) Another rule the system needs to work with is the holiday/winter mode. In case it is winter or the owners are on holidays, no cats are allowed to go outside.
+    
+    ```ruby 
+    def is_any_cat_allowed_to_go_outside?(owners_are_on_holidays, season)
+      # your code goes here
+    end
     ```
+
+    e) Bonus: Safety Mode. In some cases, we need to lock the door for all cats when the outside temperature is too low (below 5°C). Complete the code for checking if the door should be locked for all cats.
+
+    ```ruby
     def is_door_locked_for_all?(temperature)
       # your code goes here
     end
