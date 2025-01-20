@@ -1,14 +1,15 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
-@import 'base';
-@import 'layout';
-@import 'site_navigation';
-@import 'social_links';
-@import 'join_link';
-@import 'member';
-@import 'meetup';
-@import 'exercises';
-@import 'cheat_sheet';
+@use "../_sass/base";
+@use "../_sass/layout";
+@use "../_sass/site_navigation";
+@use "../_sass/social_links";
+@use "../_sass/join_link";
+@use "../_sass/member";
+@use "../_sass/meetup";
+@use "../_sass/exercises";
+@use "../_sass/cheat_sheet";
