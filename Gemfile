@@ -29,5 +29,3 @@ gem "rouge"
 
 gem "csv", "~> 3.3"
 gem "base64", "~> 0.2.0"
-
-gem "logger", "~> 1.6"
