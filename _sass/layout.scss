@@ -52,4 +52,9 @@
   .content {
     padding: 34px 18px;
   }
+
+  .home .portraits {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem;
+  }
 }
