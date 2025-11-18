@@ -130,6 +130,7 @@
 - number: 11
   topic: Classes and Objects
   slides:
+    classes-and-objects: Classes and Objects
     attribute-writers: Attribute Writers
   exercises:
     dog: Let's create a Dog class
