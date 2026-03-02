@@ -87,7 +87,7 @@ Then run `bundle install` in the directory to install sinatra.
    end
    ```
 
-Then, in the template, you can display the variable's value like this: `<%= @current_time >`.
+Then, in the template, you can display the variable's value like this: `<%= @current_time %>`.
 
 Here's what it looks like:
 
